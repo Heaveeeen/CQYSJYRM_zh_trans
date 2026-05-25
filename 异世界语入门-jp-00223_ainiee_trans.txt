@@ -1,4 +1,4 @@
-#224 双向传译
+#224　双向传译
 
 
 “{Kaisa akianu$早上好}，{dipaim$这里是} {kijacuka$基雅斯卡广播电台} {aimar$为您播报}。{Ai’r-uga$这里是} {ytartacirl-uja$广播电台} {#46$第46期……} {aimar$节目}！ {Ceixei kaganu$……咳哼……} {chepo reaem$说到话题} {yuesleone-de$尤艾斯雷欧涅的} {korxli’a-na$难民} {aimar iwa$问题}，{lebi$今天} {akianu$我们请来了}，{vosepust-uga$参与示威的} {reaege asukana$……人士之一} {jazgasaki$八崎}.{cen$翠} {sakikata$先生来到演播室}！”
