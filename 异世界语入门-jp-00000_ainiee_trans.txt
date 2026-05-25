@@ -1,6 +1,6 @@
 ~book~ 第一部 Sdeumen Waxunde
 
-~chapter~ 第一日
+~chapter~ 第一天
 
 #1　频率分析的时间到了！
 
