@@ -9,7 +9,7 @@
 　关于“mer”这个词，之前出现过好几次，我推测它大概相当于英语里的“well……”那样的表达。还有，“ja”从她之前的反应来看，似乎也表示肯定。这样的话，应该也能问出否定的表达方式。
 　翠从椅子上站起来，晃得椅子嘎嘎作响。
 
-"Fqa es larta?{这是人？}"
+"{Fqa es larta?$这是人？}"
 
 　夏莉雅仿佛明白了他的意图，指向了椅子。
 
@@ -28,11 +28,11 @@
 　看来，“什么”这个词语是由“sodo ryuuyotto”这两个词构成的。那么，就赶紧用这个来问问题吧。
 　翠再次从椅子上站起来，弄得椅子嘎嘎响，把她的注意力吸引过来。
 
-"Fqa es co'd lyjot?{这是什么？}"
+"{Fqa es co'd lyjot?$这是什么？}"
 
 　于是，夏莉雅露出了诧异的神情。
 
-"Niv, fgir es pernal.{不对，那是椅子}。 Co'd lyjot es pern{‘什么’是椅子}al? korlixtelon { es niv ly$不是……}."
+"{Niv, fgir es pernal.$不对，那是椅子}。 Co'd {lyjot es pern$‘什么’是椅子}al? korlixtelon { es niv ly$不是……}."
 
 …………。
 
