@@ -68,7 +68,7 @@
 
 “{Liaxu co es$原来你是} {kertni'ar ja$凯特尼亚吗？}”
 “{Luser werlfurp$把维尔福普的使用者} {veles stieso$这么说} {xale la lex$的吗？}”
-“{Ja$是啊}，{Niv luser$不能使用的家伙} {veles stieso$被叫做「涅特尼亚」} {«nertniar»$}。{Mi es$我就是} {nertniar ja$涅特尼亚呢}。”
+“{Ja$是啊}，{Niv luser$不能使用的家伙} {veles stieso$被叫做“涅特尼亚”} {«nertniar»$}。{Mi es$我就是} {nertniar ja$涅特尼亚呢}。”
 
 　因利尼亚“喵喵”地连声说着，仅仅是在解说词语的她，看起来竟有些可爱。这个原本是敌人的她，在这种状况下，也成了能一起相处、让人安心的存在。
 

@@ -44,7 +44,7 @@
 
 　被夏莉雅制止，两人同时眨了眨眼。他们在等待她接下来要说的话。
 
-"{Edixa co$你说了} {lkurf «xorlnem»$『太棒了』}, {cenesti$翠}?"
+"{Edixa co$你说了} {lkurf «xorlnem»$“太棒了”}, {cenesti$翠}?"
 "{Ar$啊}, {mer$那个}, {ja$嗯}."
 
 　虽然稍微搞错了，但"xorln"和"xorlnem"的意思应该没什么太大差别吧。因为在PMCF的时候，菲丽莎夸奖他时用的词就是"xorln"。然而，夏莉雅却叹了口气。

@@ -54,7 +54,7 @@
 　没错，是伊普拉吉特里雅·阿莱斯·勒维亚。她两手提着装了大量东西的塑料袋。她在擦肩而过时发现了我，就微笑着走近过来。
 
 "{Salarua$你好}, {liaxu co dosnud$您正在回家} {el sietival$吗}?"
-"{Ja$是的}, {cun liaxa sysnulu'd$因为今天的「工作」} {«duxienerl» mol niv$没有了}."
+"{Ja$是的}, {cun liaxa sysnulu'd$因为今天的“工作”} {«duxienerl» mol niv$没有了}."
 
 　伊普拉吉特里雅像是理解了一样点了点头。
 
