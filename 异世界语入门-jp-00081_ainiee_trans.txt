@@ -1,0 +1,50 @@
+#82　elm的解读
+
+elm
+
+【ftl.e】{Ers miscaon retoo$宗教的思考方式或信仰} {qa xo lartassa'st$由两个人……人们} {fai parcaxa'd$……} {tisodel$……} {ol tvasnko$去做……}.
+【ft.s】jol s reto c {fai parcaxa'd$宗教的思考方式} {tisodel$或} {ol tvasnko.$根据信仰}
+
+:{Edixa$利帕拉} {lipalaone'd larta$欧内教徒} {elm fentexoler'c$对异教徒做了……}.:
+
+　表示词性的括号内分别是"ftl."和"ft."，根据至今的字典解析来看，这个单词似乎兼有名词和动词的用法。虽然还不太清楚细节，但如果xo是类似量词的东西，那么到"qa xo lartassa'st"为止可以读作「两个人的人们」。至今没读懂过数词所以不太明白，但感觉利内帕涅语中没有量词。虽然读不懂数词但数字能读懂，其后并没有出现过类似量词的单词。
+
+　有意思的是例句。
+　利帕拉欧内教徒和异教徒被列举出来，意味着动词可能是指某种敌对行为吧。能被用作例句，说明利帕拉欧内教徒和其异教徒之间的斗争已经持续了很长时间吧。而且至今仍在持续。
+
+　回到信中文的段落，"pa co elm fentexoler'c."就可以解读为「但是，你对异教徒做了(某种敌对行为)。」。原来的句子"{Edixa co veles$你被……了} jelo {fentexoler'd$异教徒的} {metis'it$……被} la {notulu'ct$……在} {mal$然后} {co veles$你被做了} issydujo"中，目前不明白的单词是"{jelo$耶罗}"、"{metis$梅提斯}"、"{la$拉}"、"{notul$诺图尔}"、"{issydujo$伊兹杜约}"这五个。
+　连词"{mal$然后}"之前的句子，都是被动动词"{veles$被……}"，是动词加词尾"-o"构成的动名词形式的被动句结构。也就是说紧随其后的"jelo"和"issydujo"确定为动名词形式，由此可以推测存在去掉"-o"的动词"jel"和"issyduj"。"metis"和"notul"带有格的词缀，那应该就是名词吧。"la"的存在不太明白，是接置词吧。前后出现的名词都带有格却放在这里，所以既不像介词也不像后置词。不明白的东西暂且先放一放，我们先来理解这些动词的词义吧。
+
+jel
+
+【ft.i】{s xel i fal$s把i通过c/io/l} {c/io/l mal qune.$看到然后知道}
+【ft.i】{s tisod xale c i'i.$s像c一样思考i}
+
+　大致理解了。"jel"似乎有「发现」的意思和「感觉、思考」的意思。也就是说，"Edixa co veles jelo fentexoler'd metis'it la notulu'ct"感觉像是「你被异教徒的……在……(发现/感觉)了。」的意思。大概想说的可能是「被认为是芬特肖雷的人」吧。接下来查查"issyduj"的字典吧。
+
+issyduj
+
+【ft.s】{s'd larqo is$s的……是} {syduj fai cuirteo$……或……因} {ol et.$成为……}
+【ft.s】{s is set niv vynut.$s变得非常不好的状态}
+
+　第一义不太明白，但第二义太简单立刻就看懂了。按照那个来解读的话，"co veles issydujo"可以读作「你被弄成了非常不好的状态」。和至今的解读合在一起就变成了「你被异教徒的……在……(发现/感觉)到了，你被弄成了非常不好的状态。但是，你对异教徒做了(某种敌对行为)。」
+
+　解读到这一步，忽然把目光投向全文，发现能读懂的地方似乎也有不少呢。
+
+----
+
+Irfel {jazgasaki.cenesti$我来做……} {zu xelir mi'st$八崎翠啊},
+
+{Fal retla$在雷托拉}, {co'st mian'i$你把少女}{(zu, xalija)$(即，夏莉雅)} decafelemon celdinelsto {es co'd aptum.$是你的……}
+La farfel-tvasnarlarsopitolyrnasch xolirfe {zu fixa.$费希尔·}{stedelaf krante$斯特德拉夫写的} {ler 20'd$来自20的} rout larieves {mal fqa'd$还有这个} {xola'd elm$改宗的（敌对行为）} apasken {is paskelmravir.$成为……}
+{Fentexoler'st$异教徒} ditierrmeunasch elmerger'it slyrsirlusil {ler miss$从……我们} celdinelst {marlerss mal$市民，还有} dytylaxelixfant.
+{Co xale larta'st$像你这样的人的} {molo es delus$存在是……为了} {fua la lex.$是……}
+{Edixa co veles$你被异教徒的……在……} {jelo fentexoler'd$(发现/感觉)} {metis'it$到了} {la notulu'ct mal$你被弄成了非常不好的} {co veles issydujo$状态。} {pa co elm$但是，你对异教徒} {fentexoler'c. $做了(某种敌对行为)。}
+La lex kantet {co'd$你的} anfi'e.
+Lecu {mi'tj$我……} {lertasala'l$(某种宗教场所)} {klie mal$来} {furnkie unde.$改变……}
+
+Sinh lut {es$是} lydec {co's$你是}.
+
+----
+
+　并非不觉得大致把握了氛围。继续推进解读吧。

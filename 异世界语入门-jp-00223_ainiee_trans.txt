@@ -1,0 +1,36 @@
+#224 双向传译
+
+
+“{Kaisa akianu$早上好}，{dipaim$这里是} {kijacuka$基雅斯卡广播电台} {aimar$为您播报}。{Ai’r-uga$这里是} {ytartacirl-uja$广播电台} {#46$第46期……} {aimar$节目}！ {Ceixei kaganu$……咳哼……} {chepo reaem$说到话题} {yuesleone-de$尤艾斯雷欧涅的} {korxli’a-na$难民} {aimar iwa$问题}，{lebi$今天} {akianu$我们请来了}，{vosepust-uga$参与示威的} {reaege asukana$……人士之一} {jazgasaki$八崎}.{cen$翠} {sakikata$先生来到演播室}！”
+
+“{Xace$谢谢}。”
+
+“{Lebi$今天} {akianu$您来}，{vosepust-uma$是要给我们讲讲关于示威的事} {zunaiir$对吧}？”
+
+“{Ja$是的}，{no io$现在} {als yuesleone’d$所有尤艾斯雷欧涅的} {korxli’a$难民} {issyduj$都在你们居住的} {fal PMCF$PMCF里} {zu sietiv cossa’st$遭受着残酷的对待}。{Cene niv miss$我们这些孩子} {lex es selunuss$无法用利帕莱涅语学习} {lersse fal$，也} {lineparine mal$无法理解} {firlex$课程的内容} {lersse’d kante$意义}。{Ny selunuss$大人们} {letix niv loler$生活困苦}，{arte’el mal nilirs$有人在赌博中倾家荡产} {fal velfezaino$而更难} {melx cene niv$生存下去} {niejod$愈发艰难}。{Siss veles issydujo$他们在工作中} {fal duxienil mal$也遭受欺凌}，{lartass celes ny$当地民众将尤艾斯雷欧涅的} {eno tvasnker$难民中的利帕拉欧内} {lipalaone’st$教徒} {zu es yuesleone’d$从费昂夏} {korxli’a$赶了出去}。{Pa$但是}，{edixa sysnul io$我们今天} {miss klie fal makati$聚集到了这个马卡蒂}。{Mal$并且}，{miss ny ircalart lot$我们将明确地} {lkurf elx selene$展示} {icveerl fal$这次示威中} {vosepustustan$寻求的是什么}。{Cene niv$哪怕个人} {panqa’d larta$无法改变} {furnkie pelx$任何事}，{cene loler$只要集结起来} {larta furnkie. Wioll$就一定能有所改变}，{miss celes$我们今天} {xelo cossa’ct$就是要展示这一点}。”
+
+“{Kaisa$太棒了}！ {Lebi$今天} {akianu$我们}，{epao$还} {chepo asukama$请来了} {cauyau$……另一位} {sakikata$发言者} {iwa chepor$来到现场}。”
+
+“{Cenesti$翠}！ {Miss celottiso$我们一直在} {co at$等你……}！”
+“{Lecu skylolenon$就在今天……} {furnkie fal$……让我们} {snenikestan$改变它吧}！”
+“{Lecu miss$我们要把真相} {jostol cirla$……公之于众}！”
+
+“{Xace$谢谢}。
+
+{Sysnul io$今天} {misse’st lex$我们要改变} {furnkie iulo$的问题} {es niv mels$不仅仅是} {yuesleone’d$尤艾斯雷欧涅的难民} {korxli’a lap$而已}。{Miss furnkie$我们是为了} {ny vynut$扭转这个国家的人} {tisodel$对其他国家的民众} {sietiversse’s$所抱持的} {fqa’d icco’ct ete’d$诸多偏见} {icco’d larta’i$才来到这里的}。{Fqa’it senosterss$听到这些话的人们} {issyduj xale$如果遭受了} {la lex melx$那种残酷的境遇}，{wioll selene$想必也会和} {tisod xale miss$我们想的一样吧}。{La lex es$那只不过} {vi’art fal als$是立场的差异} {faller als larta$造成的罢了}。{Mal$所以}，{vi’arton$有相同想法的} {tisoder$人} {elx wioll cene$也可以帮助我们} {celdin miss$}。”
+
+“{Chesim$那个……}，{yuesleone-ja$尤艾斯雷欧涅的} {korxli'a-ma$难民们} {<chesim>$说了‘是的’}，{chepos iwa$}，但 {nannunu$究竟要怎样才能} {epao asukama$和其他的人} {dador asuka$……那些正在做……的人} {ia$……一起} {kaika acaur$并肩战斗呢}？”
+
+“{Cene miss$可以} {es e’i$做到的}。{Coss firlex$只要理解难民} {korxli'a ad ete'd$和外国人}，{icco'd larta$并且} {mal ny nun. Ers$去回应他们就行了}。{la lex lap$仅此而已}。{Deliu niv miss$我们无需战斗} {elm mal$也无需互相残杀} {reto miss$这样就很好}。{Ekce furnkieostan$只需要一点点改变} {lap es vynut$就足够了}。”
+
+“{Huroe$一点点}？ {Amama nannuma$我还以为} {puatu wuoma$是要搞出什么惊天动地的大事呢}，{hiyar iwa$结果就一点点} {huroe$吗}？”
+
+“…… {Edixa loler lartass$如果很多人一点一点地} {ekce ekce furnkie$慢慢改变}，{niss felx wioll$这个国家} {no ler icco$就会变成一个} {is vynut$更好的国家}。{Mal$那样的话}，{Ny vynut iulo$无论是难民还是PMCF的人} {is niv fal als$都没有任何} {faller korxli'a ad$坏处} {PMCF'd larta$才对}。{Letixerss vynut$心怀善意的人们} {fusaf set klie$齐聚一堂}，{felx wioll harmie$究竟能成就什么}，{is. Lecu celes$我们就让他们看看} {xelo la lex'it$吧}！
+
+{La lex xale iulo'i$那种事情} {es melx$一旦做了} {wioll co ny letix$不就会失去工作} {duxienerl ol taval$或者立场了吗}。{Tisod niv $请不要想什么}{la lex plax$‘其他人会怎么想’之类的事}！{Fqa’it senost$听着这番话的} {er'd als$大家} {furnkie no mal$只要改变当下}，{la lex xale iulo'it$做那种事的人} {eser is ekce$才会越来越少}。
+
+{Mi firlex niv$现在有多少人} {senoster'd dieniep$在听} {fal no$我不知道}。{Mi firlex niv$其中又有多少人} {elx wioll$会付诸行动} {eser'd dieniep$我也不知道}。{faller senoster.$} {Pa$但是}，{cene mi sneieton$我有一件事} {lkurf panqa$可以确凿无疑地说出来} {lap$}。{40 snenik cecio$我花了四十天} {sietiv mi's fua$才赢得了信任} {veleso tvasnko$}。{Pa$可是}，{Fqa’i$正在听着的} {senoster$大家} {elx cene furniergil$能够改变的瞬间}，{elx es set$就是那一刹那} {ekce liestu$而已}。
+
+{Mi tvasnk elx$我相信大家} {wioll eso alsa'st$会改变} {la lex'it$的}。{Als es la lex'i$只要大家行动起来} {felx cene furnkie no$就能改变当下}。
+
+{Lecu miss celes$让我们做给他们看} {xelo misse'd fusaf$吧}……！

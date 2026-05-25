@@ -1,0 +1,75 @@
+#154 恐惧之事
+
+---
+{zantanascheu$茨安塔纳斯切乌}
+{-'ceu$切乌}
+{fe$菲}
+{ydicel$尤迪塞尔}
+{luarta$卢阿塔}
+{da$达}
+{ladircco$拉迪尔索}
+{verxen$维申}
+{-stan$斯坦}
+{klantez$克兰特兹}
+{siburl$西布尔}
+{ispienermedarneust$伊斯皮涅梅达尔内乌斯特}
+{enomionas$埃诺米奥纳斯}
+---
+
+　剩下13个语素。夏莉雅解释起来非常费力。抽象概念之类，真的很难用语言说明。假如要向日语初学者解释“剑戟之声”，恐怕只能说“锵锵锵锵锵！”了吧。反过来说，如果用语言啰啰嗦嗦地解释能让人明白，那多半就那么做了，就是这么回事。绝对不可能是因为解释者表达能力不足，肯定不是。
+
+　首先，夏莉雅再次从"{zantanasch$茨安塔纳斯什}"拉出箭头，在旁边写上"[{zant$茨安托}-{a$阿}-{nasch$纳斯什}]"。肯定又是单词加上了各种成分吧。大概是以"zant"为词干，加上接辞"-nasch"，中间插入了缓冲音"-a-"。
+
+"<{zant$茨安托}> {es elmel mal$是战斗方式的事} <{zantanasch$茨安塔纳斯什}> {es letixo$是战斗方式} {elmel'it$拥有的事}。"
+
+　"zant"似乎是“战法”“战术”之类的意思。加上"-nasch"后，就变成“拥有战法或战术”的意思。从它作为"is"的补语来看，可认为是名词或形容词，大概是“武装化的”、“武装化”的意思吧。只是有一个疑问。歌词中出现的单词是"{zantanascheu$茨安塔纳斯切乌}"。夏莉雅刚才说明的单词里并没有"-eu"这部分。
+
+"<-{eu$埃乌}> {es harmie$是什么}？"
+"{A$啊}，{la lex letix$那个是没有意义} {niv kante$的}。"
+
+　夏莉雅对翠的提问一惊，回答道。她把垂到肩前的头发撩了上去。
+
+"{Cene co lkurf$茨安塔纳斯什和} {<zantanasch> pelx$虽也常说} {fqa io$但在这里} {lus <-eu>$"-eu"这个} {fua nesnium$是因为……}{usnej$而被使用的}。{Pa$不过}，{cirla io$真的} {la lex$那个} {letix$是意思} {niv kante melx$没有的，所以} {cene co$就如} {lkurf faller$卢库夫特雷斯也可} {<lkurftless> ol$说成} {<lkurftlesseu>$卢库夫特雷斯泽乌}。"
+"{Firlex$原来如此}，"
+
+　或许将"-eu"视为一种缓冲音更好。虽然不太明白"{nesniumusnej$涅斯纽穆斯涅伊}"具体指什么，但既然它没有意义，而且"lkurftless"可以说成"lkurftlesseu"，那么应该只是恰当地表记出了被随意插入的缓冲音罢了。大概在单词的辞书形中，这种缓冲音会被忽略，所以夏莉雅才去掉了它，来解释"zantanasch"。
+
+　这样一来，歌词第一行的意思就大致理解了。"Viojassasti! shrlo is zantanascheu."大概就是“同胞们！拿起武器！”之类的意思吧。第二行的"-'ceu"，肯定也能看作是"{-'c$与格接辞}"加上了缓冲音"-eu"，这样就能读懂了。"Farviles stoxiet farvil'i no'ceu."大概是“此刻，高举起蓝色旗帜”的感觉吧。
+
+"{Edixa mi$第一行和} {firlex panqa$第二行的} {ad qa'd leiju'd$意思我懂了} {kante$哦}。"
+"{Firlex$你懂了}。{mal$那么}，{lecu lersse$关于第三行} {mels dqa'd$我们来} {leiju$看一看吧}。"
+
+　说着，夏莉雅指向了笔记里写着的"fe"。
+
+"{<fe> es$"fe"是} {kraftona$助动词}。{La lex$它} {kantet$……} {ny la lex$……}。{Deliu es niv$是禁止做}。"
+"<{kantet$坎特特} {ny la lex$纽拉雷什}>？"
+"<{kantet$坎特特}> {es$是} <{letix kante$「拥有意义」这个意思哦}。{<ny la lex>$纽拉雷什是} {kantet$指着} {lkurferl$被写的} {fasta$后面的行} {leiju zu krante$相关的事情} {<ny la lex>$在指那个呢}。"
+
+　夏莉雅冷静地为我说明。在连她说明用的词语我都不是很懂的情况下，还能好好地为我解释，这实在值得感谢。
+　我明白了"fe"是助动词，表示“禁止”，但关键的第三行主要动词"{ydicel$尤迪塞尔}"却不太明白。
+
+"{Mal$那么}，{xalijasti$夏莉雅}，<{ydicel$尤迪塞尔}> {es$是} {harmie$什么}？"
+"{hnnn$嗯}，{Veleso retoo'it$被杀这种事} {ad$和} {lartassa'st elmo$人们争斗这种事} {es$是} {ydicelo$尤迪塞洛}。"
+"{hm$唔}。"
+
+　既然它附带着表示动名词的词尾"-o"，看来我将其解释为主要动词是对的。从对象词来看，"ydicelo"是指“恐怖”或“恐惧”，而"ydicel"大概是“恐惧”吧。
+　也就是说，第三行的意思也明白了。"Viojassasti! fe ydicel la lex."是“同胞们！不要恐惧那个”的意思。
+
+"{mal$还有呢}，……"
+"{hm$嗯}？"
+
+　夏莉雅似乎想继续说下去，用细微的声音小声说道。
+
+"{Mi ler cen niv$翠从我身边} {molo at$消失这种事} {es ydicelo$也让人害怕}。"
+
+　夏莉雅这么说着，脸涨得通红。在接连不断的纷争中，夏莉雅一直和翠走到了现在。彼此都是不可替代的重要存在，我绝不可能丢下夏莉雅，自己跑到什么地方去。
+
+"{Mi tydiest$我是不会} {niv fhasfa'l$丢下} {filx xalija$夏莉雅走掉的}。"
+"……{Cirla io lkurf$真的}？"
+
+　夏莉雅把发烫的脸转向这边问道。那双蓝宝石般的眼眸正凝视着我。
+
+"{Ja$当然是真的}。"
+
+　听到回答后，夏莉雅的表情被安心感所笼罩。不过话说回来，为什么她现在要问这种事呢？我完全摸不着头脑，但只要夏莉雅能安心，这种话我多少遍都愿意说。
+　正想着这些，夏莉雅已经开始写下一个单词的说明了。我挥开思绪，将注意力集中在理解她的解释上。

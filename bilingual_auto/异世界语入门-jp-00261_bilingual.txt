@@ -1,0 +1,111 @@
+#262 克罗马
+#262　クローマ
+
+
+　夜晚，雨云散去后的天空一片晴朗。古代星空在周围没有光污染的情况下显得格外清晰。能借以看清周围的，只有月光。这个没有人工光的世界，让我有种异样的感觉。但只是望着繁星，不可思议地就能感到安心。
+　夜、雨雲の過ぎ去った空は快晴だった。古代の星空は周りに光が無いだけはっきりと見える。周りを見るのに頼りになるのは月の光だけ。人工的な光のない世界は自分を異様な気分にさせる。だが、星々を見ているだけで不思議に安心にすることが出来た。
+　我又一次睡不着，坐在屋顶上仰望天空。恍恍惚惚中，一天飒爽流逝。回想着这一天又一天，有那么一瞬间，我觉得现在的生活也不坏。只要有因利尼亚在，语言上多少能通。语言不完全懂也不是现在才开始的。而且有夏莉雅在，文化上多少也能理解。在这个古代也能活下去吗——要回答“是”的话，总感觉还缺点决心。
+　またも眠れず屋上に座りながら空を見上げていた。ぼやっとしているうちに一日は颯爽と過ぎ去っていく。そんな一日一日を振り返りながら、今の生活も悪くないなと一瞬思ってしまった。インリニアが居れば、言葉はある程度通じる。言葉が完全に分からないのは今に始まったことではない。それにシャリヤが居れば文化もある程度分かる。この古代でも生きていけるのだろうか、その問いに"{Ja$はい}"と答えるには些か覚悟が足りなかった。
+
+“{Cenesti$翠}，{co mol ja$在吗}？”
+"{Cenesti$翠}, {co mol ja$居る}?"
+
+　一个怯生生的声音传来。我转眼看去，那里有个碧眼的少女，正从楼梯旁朝这边望来。
+　恐る恐るという感じの声が聞こえた。目をやるとそこには蒼目の少女が階段脇からこちらに視線を向けている。
+
+“{Xalijasti$夏莉雅}……？”
+"{Xalijasti$シャリヤ}......?"
+
+　她穿着浅蓝色的束腰长衣，搭配着围巾。月光照耀下的银发闪闪发光，在微风中摇曳。她走近前来，在我身旁坐下了。
+　薄い青色のチュニックにスカーフを合わせている。月の光に照らされた銀髪はきらめき、そよ風に揺れている。こちらに近づいてきて、彼女は俺の横に座った。
+　是因为前天因利尼亚的事在吃醋，所以才来的吗。可她的气氛却很僵硬。她紧抿着双唇，迟迟开不了口。
+　前日のインリニアの件で妬いて、それで来たのだろうか。それにしては雰囲気が硬い。彼女は唇を一文字に結んで、なかなか喋り出さなかった。
+
+“{Co sulaun niv$不睡吗}？”
+"{Co sulaun niv$寝ないのかい}?"
+“……{Mi selene$我} {nacees co'c$想向你道歉}。”
+"...... {Mi selene$私はあなたに} {nacees co'c$謝りたかったの}."
+
+　说起来，助动词插入句中时，不是要加“eo lex”（或者其省略形elx）吗。不，比那种疑问更重要的是别的事情。
+　そういえば、助動詞は文中に入る時"eo lex"（もしくはその省略形elx)を入れるんじゃなかったのだろうか。いや、そんな疑問よりも重要なことがある。
+　夏莉雅眯起眼睛，低着头。那样子看起来就像是在拼命忍住不哭。她想道歉的，大概是因为没能回答出诗是跟谁学的、又是为何而学的那些问题吧。
+　シャリヤは目を細めて俯いていた。それは泣き出さないように頑張って踏みとどまっているようにも見える。謝りたかったのは詩をどこで学んだのか、誰に何故学んだのかという質問に答えられなかったことだろうか。
+
+“{Als larta letix$谁都会有} {elx selene niv$不想说的事} {lkurferl ja$吧}，{xalijasti$夏莉雅}。{Nacees niv plax$没必要道歉}。”
+"{Als larta letix$誰にだって} {elx selene niv$話したくないことは} {lkurferl ja$あるだろう}, {xalijasti$シャリヤ}. {Nacees niv plax$謝る必要はないよ}."
+“{Niv$不}，{co es$因为你} {jurleten larta$是我很重要} {fua mi gelx$的人}，{deliu mi$所以我一直想着} {jostol fal$总有一天} {fhasfavil$也要……}……”
+"{Niv$いいえ}, {co es$あなたは} {jurleten larta$私にとって大切} {fua mi gelx$な人だから} {deliu mi$いつか私も} {jostol fal$‥‥しなきゃ} {fhasfavil$と思って}......"
+「夏莉雅……」
+「シャリヤ……」
+
+　低着的脸上是什么表情。月光被头发遮住，让我无从窥见。
+　俯いた顔はどのような表情なのか。月の光を遮る髪の中は伺い知れなかった。
+
+“{Penul liestu io$虽然是很久以前的事了}，{mi'd vixij es$我的父亲} {klorme'd kantier$是诗学院的教师}。{Zu$也就是}，{la lex es$克罗马}，{klorma$的事情}。”
+"{Penul liestu io$昔の話だけど} {mi'd vixij es$私の父親は} {klorme'd kantier$詩学院の教師だったの}. {Zu$つまり}, {la lex es$クローマ} {klorma$のことね}."
+
+　我对她缓缓叙述的话语静静颔首。“{klorme$诗学院}”与“{klorma$克罗马}”仅一字之差，似乎是诗学院教师的意思。
+　ゆっくりと語りだした言葉に静かに頷く。"{klorma$クローマ}"は"{klorme$詩学院}"とは一字違いだが、詩学院の教師を指すらしい。
+
+“{Mag$所以}，{mi veles$我} {kantio $斯克利} {skyli'orti'e'd$欧提耶教典和} {xendusira ad$韵律} {agcelle$被教给了}。{Mal$所以}，{Cene akranti$我能不使用} {la lexe'd durxess$写那诗的东西} {fal ytarta$不加} {filx kranteerl$……地读它}。”
+"{Mag$だから}, {mi veles$私は} {kantio $スキュリ} {skyli'orti'e'd$オーティエ教典と} {xendusira ad$韻律を} {agcelle$教えられた}. {Mal$それだから}, {Cene akranti$私はその} {la lexe'd durxess$詩を書かれたものを} {fal ytarta$使わずに} {filx kranteerl$……で読めるの}."
+“{Firlex$原来如此啊}，{pa$但是} {harmy cene$为什么那个} {niv co lkurf$说不出来呢}？” 
+"{Firlex$なるほどな}, {pa$でも} {harmy cene$なんでそれを} {niv co lkurf$言うことが} {mels la lex$出来なかったんだ}?" 
+“……{Cun, ydicel$因为我害怕} {molo niv co'st$你会离开}。”
+"...... {Cun, ydicel$あなたが居なくなる} {molo niv co'st$ことが怖いから}."
+
+　话语中断，寂静降临。
+　言葉が途切れて、静寂が訪れる。
+
+“{Mi'd vixij$我的父亲}……{veles retoo$被芬特肖雷} {dznojuli'o zu es$杀害了}，{fentexoler$因为他们} {cun si veles$以为他是} {jelo xoler'c$改宗者}。{Pa$但是}，{edixa si melses$他并……} {niv als$没有……} {lertasen$参与} {vosepo$……}。{Harmy si$为什么他被} {veles retoo$杀害了}。{La lex'i firlex$你知道吗}？”
+"{Mi'd vixij$私の父親は}...... {veles retoo$フェンテショレーである} {dznojuli'o zu es$……に殺された} {fentexoler$なぜなら} {cun si veles$改宗者だと} {jelo xoler'c$思われたから}. {Pa$でも}, {edixa si melses$彼は……の} {niv als$……には} {lertasen$関わっては} {vosepo$居なかった}. {Harmy si$何故彼が} {veles retoo$殺されたか}. {La lex'i firlex$分かる}?"
+“……{Niv$不}”
+"...... {Niv$いや}"
+“{Cun, si$因为他} {es klorma$是克罗马}。{Jeska g'velg$耶斯卡把} {skyli'orti'e$斯克利欧提耶} {fua xol$为了改宗而……之后}，{fentexolerss$芬特肖雷} {tisod ny la lex$这样想的}。{Xolerss xale$克罗马就类似} {c'es klorma's$改宗派}，{kanti skyli'orti'e$因为他在教叙事诗啊}。”
+"{Cun, si$彼がクローマ} {es klorma$だったからよ}. {Jeska g'velg$イェスカは} {skyli'orti'e$スキュリオーティエを} {fua xol$改宗のために……したから}, {fentexolerss$フェンテショレーは} {tisod ny la lex$こう考えたの}. {Xolerss xale$クローマは} {c'es klorma's$改宗派のようなものだ}, {kanti skyli'orti'e$なぜなら叙事詩を教えるからってね}."
+
+　一口气说完的夏莉雅，声音在颤抖。
+　一気に言い切ったシャリヤの声色は震えていた。
+　虽然有些地方有不懂的单词，但大意能抓住。感觉“{vosepo$沃泽波}”和“{vosepust$示威游行}”、“{lertasen$雷塔泽}”和“{lertasal$雷塔扎尔}”似乎是同根词。意思大概是“申诉”和“（宗教上）教导的”吧。
+　ところどころ分からない単語はあるものの、大筋はつかめる。"{vosepo$ヴォゼポ}"と"{vosepust$デモ行進}"、"{lertasen$レータゼン}"と"{lertasal$レータザル}"は同根に思える。それぞれ「訴えること」と「（宗教的）教えの」という意味だろう。
+
+“{Edixa mi kanti$我以为} {mels durxe celx$我教你诗} {selene mi celes$你会高兴}，{vuselo co'st pa$才教了}，{mi celes niv$但我不想像他那样} {lerno co'st$被你疏远} {xale si$。}”
+"{Edixa mi kanti$私はあなたが} {mels durxe celx$喜んでくれればと} {selene mi celes$思って詩を教え} {vuselo co'st pa$たけれども} {mi celes niv$彼みたいに} {lerno co'st$離れてほしく} {xale si$ないの}."
+“{La lex es$可是}……”
+"{La lex es$それは}......"
+“{Mi firlex$我知道}。{Co taty$你} {la lex$已经} {fal eustiravil$好几次这样……了}。{Pa$但}，{mi ydicel$我还是怕}。{Jol mi'd$我……的人} {yletta larta$要……} {i is fanknen$对我……} {fai mi$变得……}。{Edixa mi$我} {alceto kali'aho$把卡莉亚霍} {filx zifoscur$在没有……的情况下…………了}，{gelx$所以} {jol lizackes$……会想把你}以{co fal xeu$…………了事}！”
+"{Mi firlex$分かってるわ}. {Co taty$あなたは} {la lex$それを} {fal eustiravil$何回も……した}. {Pa$でも}, {mi ydicel$怖いの}. {Jol mi'd$私の……な} {yletta larta$人が……} {i is fanknen$私……} {fai mi$……になる}. {Edixa mi$私はカリアホ} {alceto kali'aho$を……なしで} {filx zifoscur$‥…した} {gelx$だから} {jol lizackes$……ではあなたを} {co fal xeu$……でしようとする}!"
+
+　夏莉雅的声音渐渐混入了呜咽。虽然看不见她的脸，但她一定在哭吧。她连说出的话都变得几乎无法理解。也就是说，她平常在跟我说话时，是如此地顾虑，如此地斟词酌句。当然，我从一开始就没有抛弃夏莉雅的打算。没有，但如此坚强又可爱的人，我又怎么可能满不在乎地舍弃。
+　シャリヤの声は段々と嗚咽混じりになっていた。顔こそ見えないが、きっと泣いているのだろう。話す言葉も何を言っているのか殆ど理解できない程になっていた。それほど彼女は自分に話す時に配慮して、言葉を選んでいたということだ。無論、最初からシャリヤを見放すつもりはない。無いがここまで健気で愛しい人を平気で見捨てられるわけがない。
+　我一边抚摸着坐在身旁的夏莉雅的头，一边从怀中取出一张纸。
+　横に座っているシャリヤの頭を撫でながら、懐から一枚の紙を取り出した。
+
+“{Xel fqa plax$看看这个}，{xalijasti$夏莉雅}。”
+"{Xel fqa plax$これを見てくれ}, {xalijasti$シャリヤ}."
+“{Fqa es$这是}……{durxe$诗}？”
+"{Fqa es$これは}...... {durxe$詩}?"
+
+----
+----
+Mi'st noil io set g'lirf co fal alsileu, lkurf ja.
+Mi'st noil io set g'lirf co fal alsileu, lkurf ja.
+Alsersti! Cest niv nateu l'furnkie miss'd melso.
+Alsersti! Cest niv nateu l'furnkie miss'd melso.
+Lkurftless adeu flarska niv cest qa, zelkesti!
+Lkurftless adeu flarska niv cest qa, zelkesti!
+----
+----
+
+　在夏莉雅眼前的，是前些天在诗学院拿到的纸。上面写着利帕谢文。这并非单纯的散文。这是我用她教的诗体，想写点什么赠给她而作出来的。
+　シャリヤの目の前にあるのは先日詩学院にもらった紙だ。それにリパーシェが綴られている。ただの散文ではない。彼女に教えてもらった詩形でなにか一つ書いて、贈ろうと思って作ったものだった。
+
+“{Liaxu mi$我能活到现在}，{niejod fal no$是因为} {cun co celdin$你一直帮着我}，{fal alsil$所以才能这样}。{Mi lern niv co ler$我不会离开你}，{melx$而且} {cene miss$我们能} {dosnud ladir'd$回到原来的世界}。{Liaxa miss$只要找到夕张} {melfert$的话}，{jurbali lap$我们的} {melx miss$危机什么} {letix niv fafsirl$就结束了}。{Mag$所以}，”
+"{Liaxu mi$今まで生きて} {niejod fal no$これたのは} {cun co celdin$君が何時も助けて} {fal alsil$くれたからだ}. {Mi lern niv co ler$俺は君からは離れない} {melx$それに} {cene miss$俺達は} {dosnud ladir'd$元の世界に} {unde$帰れる}. {Liaxa miss$夕張を見つけ} {melfert$さえすれば} {jurbali lap$俺達の} {melx miss$危機なんて} {letix niv fafsirl$終わるんだ}. {Mag$だから},"
+"......"
+"......"
+“{Tvarcar mi plax$相信我吧}。”
+"{Tvarcar mi plax$俺を信じてくれ}."
+
+　夏莉雅静静颔首。眼泪似乎已经止住了，她就那样静静地，仿佛要入睡般的呼吸轻轻摇动着我的背。
+　シャリヤは静かに頷く。既に涙は止まったようで、静かにそのまま眠るかのような息づかいが背中を揺らしていた。

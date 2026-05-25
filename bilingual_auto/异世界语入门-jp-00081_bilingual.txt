@@ -1,0 +1,81 @@
+#82　elm的解读
+#82　elmの解読
+
+elm
+elm
+
+【ftl.e】{Ers miscaon retoo$宗教的思考方式或信仰} {qa xo lartassa'st$由两个人……人们} {fai parcaxa'd$……} {tisodel$……} {ol tvasnko$去做……}.
+【ftl.e】{Ers miscaon retoo$宗教の考え方または信仰} {qa xo lartassa'st$によって２……人々が} {fai parcaxa'd$……} {tisodel$……} {ol tvasnko$すること}.
+【ft.s】jol s reto c {fai parcaxa'd$宗教的思考方式} {tisodel$或} {ol tvasnko.$根据信仰}
+【ft.s】jol s reto c {fai parcaxa'd$宗教の考え方} {tisodel$または} {ol tvasnko.$信仰によって}
+
+:{Edixa$利帕拉} {lipalaone'd larta$欧内教徒} {elm fentexoler'c$对异教徒做了……}.:
+:{Edixa$リパラ} {lipalaone'd larta$オネ教徒は} {elm fentexoler'c$異教徒に……した}.:
+
+　表示词性的括号内分别是"ftl."和"ft."，根据至今的字典解析来看，这个单词似乎兼有名词和动词的用法。虽然还不太清楚细节，但如果xo是类似量词的东西，那么到"qa xo lartassa'st"为止可以读作「两个人的人们」。至今没读懂过数词所以不太明白，但感觉利内帕涅语中没有量词。虽然读不懂数词但数字能读懂，其后并没有出现过类似量词的单词。
+　品詞を表しているカッコのなかはそれぞれ"ftl."と"ft."なのでこれまでの辞書解析から考えるとこの単語は名詞と動詞の用法を持つようだ。まだ詳しくは分からないが、xoが助数詞の様なものならば"qa xo lartassa'st"までで「二人の人々が」と読める。今まで数詞を読めていなかったから良くは分からないけど、助数詞はリネパーイネ語にはない気がする。数詞は読めなくても数字は読めていたので、その後に助数詞みたいな単語が来ることは無かった。
+
+　有意思的是例句。
+　興味深いのは例文だ。
+　利帕拉欧内教徒和异教徒被列举出来，意味着动词可能是指某种敌对行为吧。能被用作例句，说明利帕拉欧内教徒和其异教徒之间的斗争已经持续了很长时间吧。而且至今仍在持续。
+　リパラオネ教徒と異教徒が挙げられているということは動詞は敵対的な何らかの行為ということになるのかもしれない。例文に挙げられるほどリパラオネ教徒とその異教徒の闘争は長らく続いていたということなのだろう。そして今も続いているということだ。
+
+　回到信中文的段落，"pa co elm fentexoler'c."就可以解读为「但是，你对异教徒做了(某种敌对行为)。」。原来的句子"{Edixa co veles$你被……了} jelo {fentexoler'd$异教徒的} {metis'it$……被} la {notulu'ct$……在} {mal$然后} {co veles$你被做了} issydujo"中，目前不明白的单词是"{jelo$耶罗}"、"{metis$梅提斯}"、"{la$拉}"、"{notul$诺图尔}"、"{issydujo$伊兹杜约}"这五个。
+　手紙の文の節に戻ると"pa co elm fentexoler'c. "は「しかし、君は異教徒に(敵対的な何らかの行動)をした。」という風に読めるわけだ。もとの文"{Edixa co veles$君は……された} jelo {fentexoler'd$異教徒の} {metis'it$……を} la {notulu'ct$……に} {mal$そして} {co veles$君はされた} issydujo"で分かっていない単語は今のところ"{jelo$イェロ}"、"{metis$メティス}"、"{la$ラ}"、"{notul$ノトゥル}"、"{issydujo$イッズュドゥヨ}"の五つだ。
+　连词"{mal$然后}"之前的句子，都是被动动词"{veles$被……}"，是动词加词尾"-o"构成的动名词形式的被动句结构。也就是说紧随其后的"jelo"和"issydujo"确定为动名词形式，由此可以推测存在去掉"-o"的动词"jel"和"issyduj"。"metis"和"notul"带有格的词缀，那应该就是名词吧。"la"的存在不太明白，是接置词吧。前后出现的名词都带有格却放在这里，所以既不像介词也不像后置词。不明白的东西暂且先放一放，我们先来理解这些动词的词义吧。
+　接続詞"{mal$そして}"までの文はどちらも受動動詞"{veles$～をされる}"が動詞が語尾"-o"を伴って出来る形である動名詞をとる受動文の構文だ。つまり直後に来ている"jelo"と"issydujo"は動名詞形であることが確定するから、そこから"-o"を取った動詞"jel"と"issyduj"があることが予想できる。"metis"や"notul"は格の接辞が付いているということは名詞だろう。"la"の存在が良く分からないが、接置詞なのだろうか。前後に来ている名詞は格が付いているのにここにあるから前置詞でも後置詞でもなさそうだが、良く分からないものは後回しにしてとりあえず動詞たちの語義を理解していこう。
+
+jel
+jel
+
+【ft.i】{s xel i fal$s把i通过c/io/l} {c/io/l mal qune.$看到然后知道}
+【ft.i】{s xel i fal$sはiをc/io/lで} {c/io/l mal qune.$見て知る}
+【ft.i】{s tisod xale c i'i.$s像c一样思考i}
+【ft.i】{s tisod xale c i'i.$sはiをcのように思う}
+
+　大致理解了。"jel"似乎有「发现」的意思和「感觉、思考」的意思。也就是说，"Edixa co veles jelo fentexoler'd metis'it la notulu'ct"感觉像是「你被异教徒的……在……(发现/感觉)了。」的意思。大概想说的可能是「被认为是芬特肖雷的人」吧。接下来查查"issyduj"的字典吧。
+　大体理解できた。"jel"は「見つける」という意味と「感じる、思う」という意味があるらしい。つまり、"Edixa co veles jelo fentexoler'd metis'it la notulu'ct"は「君は異教徒の……を……に(見つけ/感じ)られた。」という感じなのだろう。多分「フェンテショレーだと思われた」というようなことを言いたいんじゃないんだろうか。次は"issyduj"を辞書で引いてみよう。
+
+issyduj
+issyduj
+
+【ft.s】{s'd larqo is$s的……是} {syduj fai cuirteo$……或……因} {ol et.$成为……}
+【ft.s】{s'd larqo is$sの……は} {syduj fai cuirteo$……か……によって} {ol et.$……になる}
+【ft.s】{s is set niv vynut.$s变得非常不好的状态}
+【ft.s】{s is set niv vynut.$sはとても良くない状態になる}
+
+　第一义不太明白，但第二义太简单立刻就看懂了。按照那个来解读的话，"co veles issydujo"可以读作「你被弄成了非常不好的状态」。和至今的解读合在一起就变成了「你被异教徒的……在……(发现/感觉)到了，你被弄成了非常不好的状态。但是，你对异教徒做了(某种敌对行为)。」
+　第一義は良く分からないが、第二義は簡単すぎて直ぐに分かった。それで解釈するなら"co veles issydujo"は「君はとても良くない状態にされた」と読むことが出来る。今までの解読と合わせると「君は異教徒の……を……に(見つけ/感じ)られて、君はとても良くない状態にされた。しかし、君は異教徒に(敵対的な何らかの行動)をした。」となる。
+
+　解读到这一步，忽然把目光投向全文，发现能读懂的地方似乎也有不少呢。
+　そこまで解読して、全文にふと目を落とすと読めるところも結構あるような気がしてきた。
+
+----
+----
+
+Irfel {jazgasaki.cenesti$我来做……} {zu xelir mi'st$八崎翠啊},
+Irfel {jazgasaki.cenesti$私が……する} {zu xelir mi'st$八ヶ崎翠よ},
+
+{Fal retla$在雷托拉}, {co'st mian'i$你把少女}{(zu, xalija)$(即，夏莉雅)} decafelemon celdinelsto {es co'd aptum.$是你的……}
+{Fal retla$レトラで}, {co'st mian'i$あなたが少女}{(zu, xalija)$(つまり、シャリヤ)を} decafelemon celdinelsto {es co'd aptum.$あなたの……である}
+La farfel-tvasnarlarsopitolyrnasch xolirfe {zu fixa.$费希尔·}{stedelaf krante$斯特德拉夫写的} {ler 20'd$来自20的} rout larieves {mal fqa'd$还有这个} {xola'd elm$改宗的（敌对行为）} apasken {is paskelmravir.$成为……}
+La farfel-tvasnarlarsopitolyrnasch xolirfe {zu fixa.$フィシャ・}{stedelaf krante$ステデラフが書いた} {ler 20'd$から20の} rout larieves {mal fqa'd$そしてこの} {xola'd elm$改宗の（敵対的行動）} apasken {is paskelmravir.$……になる}
+{Fentexoler'st$异教徒} ditierrmeunasch elmerger'it slyrsirlusil {ler miss$从……我们} celdinelst {marlerss mal$市民，还有} dytylaxelixfant.
+{Fentexoler'st$異教徒が} ditierrmeunasch elmerger'it slyrsirlusil {ler miss$……から私たちが} celdinelst {marlerss mal$市民、そして} dytylaxelixfant.
+{Co xale larta'st$像你这样的人的} {molo es delus$存在是……为了} {fua la lex.$是……}
+{Co xale larta'st$君のような人間の} {molo es delus$存在することは……のために} {fua la lex.$……である}
+{Edixa co veles$你被异教徒的……在……} {jelo fentexoler'd$(发现/感觉)} {metis'it$到了} {la notulu'ct mal$你被弄成了非常不好的} {co veles issydujo$状态。} {pa co elm$但是，你对异教徒} {fentexoler'c. $做了(某种敌对行为)。}
+{Edixa co veles$君は異教徒の……を……に} {jelo fentexoler'd$(見つけ/感じ)} {metis'it$られて} {la notulu'ct mal$君はとても良くない} {co veles issydujo$状態にされた。} {pa co elm$しかし、君は異教徒に} {fentexoler'c. $(敵対的な何らかの行動)をした。}
+La lex kantet {co'd$你的} anfi'e.
+La lex kantet {co'd$君の} anfi'e.
+Lecu {mi'tj$我……} {lertasala'l$(某种宗教场所)} {klie mal$来} {furnkie unde.$改变……}
+Lecu {mi'tj$私……} {lertasala'l$(何らかの宗教的な場所)} {klie mal$来て} {furnkie unde.$……を変える}
+
+Sinh lut {es$是} lydec {co's$你是}.
+Sinh lut {es$である} lydec {co's$君が}.
+
+----
+----
+
+　并非不觉得大致把握了氛围。继续推进解读吧。
+　大体雰囲気を掴めてきた気がしなくもない。さらに解読を進めることにしよう。

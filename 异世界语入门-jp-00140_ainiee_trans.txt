@@ -1,0 +1,57 @@
+#141　助动词最难
+
+
+"{<cene>$能}, {<deliu>$必须}, {<selene>$想} {ad et es$之类的} {kraftona$是……}. {Co firlex$我知道} {la lex$对吧}?"
+"{Ar$啊}, {ja$嗯}."
+
+　夏莉雅问题中包含的"{kraftona$克拉夫特那}"虽然是没见过的单词，但考虑到其中包含"cene"、"deliu"、"selene"以及与"{ftona$动词}"这个词相似，大概指的是某种词类的名称。暂且把"kraftona"命名为"助动词"吧。
+
+"{<eo lex> ol$"eo lex"或者} {<elx> pusnist$"elx"是} {kraftona'd$助动词的} {krantiago$停止……}."
+"{hmm$嗯}......"
+
+　看到翠在呻吟，大概是察觉到他不太明白的样子，夏莉雅开始在笔记本上写例句。
+
+<{Cene si zu perne$坐着的他} {lkurf lineparine$说利帕拉语}.>
+
+"{Cene si perne$在这个句子里} {fal fqa'd kante.$他能坐} {Mal, cene si$而且能说} {lkurf lineparine$利帕拉语}. {Pa$但是}, {fi selene co$如果你想} {lkurf <selene $把"他想坐} {si perne.>$下} {ad$和} {<cene lkurf$能说利帕拉语} {lineparine>$在一个} {fal panqa'd$句子} {leiju$里}, {hame lkurf$该怎么说呢}?"
+
+　大概"leiju"是"句子"的意思吧。大概是说要用关系从句修饰si，像例句那样写成一个句子来表达。
+
+"<Selene si zu perne cene lkurf lineparine>?"
+"{Niv$不对}."
+
+　立刻就被否定了。本来就没写过使用两个以上助动词的句子，虽然感觉到有点不对劲，但不太清楚哪里错了。
+
+"<selene si zu perne ELX cene lkurf lineparine.> {es julesn$才是正确的}."
+"{hmm$嗯}...... {firlex$明白了}."
+
+　感觉好像明白，又好像不太明白，大概是在句中使用助动词时需要"{eo lex$埃奥 雷什}"或者"{elx$埃尔什}"吧。说到"elx"，之前茵莉尼亚也指出过。那是在说"Mi firlex niv lkurferl co'st mal harmie selene co es......"的时候，按这个解释的话，对于用连词连接的句子似乎也需要"elx"，而且在最初的句子或主句没有助动词而后面加上助动词的时候也需要。不如说，假设句子开头有一个看不见的助动词†零助动词†，这样就能统一解释了。从夏莉雅最初的例句来看，没有"elx"的话助动词会一直管到句子结尾，而"eo lex"就是用来分隔它的。"elx"似乎是"eo lex"的省略形式，放在动词前重置助动词，也可以在"elx"和动词之间插入新的助动词。
+
+（确实很难啊……。）
+
+　总结如下。
+
+【lex+动词】zu+动词的前置版本，类似日语的连体形。
+【la lex】上下文指示代词，指代前文中出现的内容。
+【eo lex】在句子中想要改变助动词时使用。另外，零助动词总是附着在句首。
+
+"<mal eo lex> 就是 <pa eo lex>, <cun eo lex>, <zu eo lex>, <fi eo lex> 而 <melx> 就是 <pelx>, <celx>, <zelx>, <felx>."
+"{hmm$嗯}......"
+
+　夏莉雅一边掰着手指一边这么说道。中途卡住，大概是因为种类太多了吧。
+　也就是说，连词和"elx"经常会省略。刚才被茵莉尼亚指出的，如果是放在"mal"后面的话就成了"melx"。
+
+"{allo$阿洛} {arlefiagno$阿雷菲亚古诺} {inual-sa$伊努阿尔扎} {oiljasa'd$奥伊利亚扎} {lineparine$利帕拉语} {lgher$卢格哈} {es$是} {zelk$泽尔克}? {allo$阿洛} {husfa$胡斯法}!"
+"{Ar$啊}, {salarua$欢迎回来}."
+
+　伴随着粗暴开门的声音出现在玄关的是加尔塔。他一边说着听不太懂的语言，一边叹着气。能感觉到他那种气恼疲惫、厌烦不已的氛围。
+
+"Lirs, {co lkurf$你会说} {penul lineparine$利帕拉语} {ja$对吧}?"
+"{Ja$啊}, {ja$没错}, {edixu mi es$我是谢尔肯……} {xelken fal$在……} {jexerrt pelx$但已经} {edixa fanken$……了}. {Pa$但是}, {cene niv als larta$谁都不能改变} {furnkie fagrigecio$母语}."
+
+　对于夏莉雅的问题，加尔塔冷静地用利帕拉语好好回答了。夏莉雅听了之后脸上也没有浮现出问号的表情，看来他们互相之间可以沟通。
+
+"{Mal$那么}, {lecu miss$大家一起去} {tydiest fua$食堂} {knloano$吧}?"
+"{Ja$啊}, {ers julesn liestu$时间也不早了}."
+
+　夏莉雅站起来说出的话，加尔塔也表示赞同。时间过得很快，已经到了晚餐食堂开放的时间了。感觉今天学得够多了。最后加尔塔叫醒了卡莉亚霍，四个人一起去食堂了。

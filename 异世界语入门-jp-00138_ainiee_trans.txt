@@ -1,0 +1,71 @@
+#139　理解Vioj
+
+
+---
+夏尔 12 julupia
+克拉迪亚 11 julupia
+莉尔卡 10 julupia
+拉维尔 12 annia
+修卡兹 11 annia
+法尔卡斯 10 annia
+---
+
+“{fi fqa'd relod$如果在这个家庭} {io tisod$当中考虑的话}, {als niss es vioj$这些人全都是vioj}. {xal ad kladi'a ad$夏尔、克拉迪亚}和{lavyrl ad xkardz es$拉维尔与修卡兹是} {lirca ad falkaca'd$莉尔卡和法尔卡斯的} {viojeffe$viojeffe}. {lirca ad falkac$莉尔卡和法尔卡斯} {es$是} {nisse'd viojunsar$他们的viojunsar}.”
+
+　因利尼亚用笔逐一指着各个名字说明。总之我理解到的是，“{viojeffe$维奥耶斐}”指姐姐或哥哥，“{viojunsar$维奥云萨}”指妹妹或弟弟。看样子这些词都是从“vioj”这个词干派生出来的，说不定这个“vioj”意思是不分性别、年龄的兄弟姐妹关系。硬要用日语表达的话，大概是“同胞”这个意思吧。
+
+“{Lavyrl ad xkardz$拉维尔与修卡兹} {ad falkac es$和法尔卡斯是} {xal ad kladi'a$夏尔与克拉迪亚} {ad lirca'd viojaph$和莉尔卡的viojaph}. {Xal ad kladi'a$夏尔和克拉迪亚} {ad lirca es$与莉尔卡是} {lavyrl ad xkardz$拉维尔与} {ad falkaca'd viojakh$法尔卡斯的viojakh}.”
+
+　因利尼亚继续说明。她每次说到名字，就用笔指着名单旁边写着的“{julupia$尤尔皮亚}”和“{annia$安尼亚}”。
+　也就是说，这些词的区别似乎是用“julupia”和“annia”来划分的。“viojaph”似乎指不论年龄的“annia”的兄弟姐妹，“viojakh”同样指不论年龄的“julupia”的兄弟姐妹。大概“julupia”和“annia”表示性别吧，但分不清哪个是哪个。
+
+“{inlini'asti$因利尼亚小姐}, {mi firlex niv$我不懂julupia和} {julupia ad annia'd$annia的意思}. {Co es julupia$你是哪个} {ol annia$呢}?”
+
+　被问到的因利尼亚，一副“你连这都不懂吗”的样子，好笑又无奈地苦笑起来。
+
+“{Mi es julupia$我是julupia} {mal$而} {co es annia$你是annia}.”
+
+　嗯。
+　因利尼亚看起来是女孩子，但就此把“julupia”理解为“女性”未免太性急了。说不定她外表是女孩，生物学性别却是男性。不过，考虑到自己被称作“annia”，自己是男性这一点不言自明，所以大概指因利尼亚的“julupia”是“女性”，指翠的“annia”是“男性”吧。
+
+“{Mi firlex$我明白了}.”
+
+　我这么回答后，因利尼亚露出了无忧无虑的笑容，朝我点点头。
+　也就是说，“viojaph”指男性的兄弟姐妹，“viojakh”指女性的兄弟姐妹。“viojeffe”指年长的兄弟姐妹，“viojunsar”指年幼的兄弟姐妹。这些词都由“vioj”派生而来，由此可以分离出表示男性的词尾“-ph”、表示女性的词尾“-kh”、表示年长的词尾“-effe”、表示年幼的词尾“-unsar”。表中出现的“viojeffeph”、“viojunsarph”、“viojeffekh”、“viojunsarkh”也可以分解，分别对应“同胞-年长-男性”＝“兄”、“同胞-年幼-男性”＝“弟”、“同胞-年长-女性”＝“姐”、“同胞-年幼-女性”＝“妹”。
+
+“{Mal, co nun$那么，你要问的是}. {Ci es mi'd$她是不是我的} {viojunsarkh$妹妹这件事}?”
+“{Ja$是啊}?”
+“{Ci'd ferlk es$她的名字是} {kali'aho$卡莉亚霍}{.skalmlei$·斯卡鲁姆雷}. {Edixa deliu$我不得不} {mi josnusnon xel$负起照顾她的责任}. {Pa, ci es niv$可是，她不是} {mi'd viojunsarkh$我的妹妹}.”
+
+　突然被叫到名字的卡莉亚霍，正在暖洋洋的露台上昏昏欲睡，猛地一惊，“{j, je'm$吉、杰姆}?”地慌忙应道。因利尼亚看到她这副样子，轻轻笑了出来。
+
+“{Zu$那么说来}, {naa'ra fon hata$娜拉·冯·哈塔} {ler ci klie$她是来自那里吧}.”
+
+　听到“naa'ra fon hata”这个词时，卡莉亚霍饶有兴致地将目光投向了因利尼亚。
+
+“{Harmue fgir mol$那在哪里}? {Ci lkurf harmie'd$她说的} {lkurftless$是什么语言?}”
+“{Fqa'd unde io$在这世上} {mol niv$没有哦}. {Lirs$说起来}, {deliu co lersse$你应该学利帕谢语吧} {lineparine ja$嗯}?”
+“{hmm$嗯——}...... {ja$是啊}.”
+
+　一边被因利尼亚开导着，我心里还剩一个疑问。“fqa'd unde io mol niv.”是什么意思呢。单纯翻译的话就是“这世上不存在”，但那样听起来就像是这个异世界的居民可以自由干涉异世界一样。这倒也是个有趣的话题，可是从我至今所见的世界氛围来看，那种事不太现实。大概理解成“遥远的异国”是个恰当的折中吧。
+
+“{defas$达发} {kailaidé$凯雷德} {lys$留} {mait$麦} {fameis$发麦} {pelè$帕尔}...... {Cenesti$翠君}, {deliu mi tydiest$我该走了}.”
+
+　因利尼亚突然站起来，这么说道。她看了看手表，然后又朝这边挥了挥手。
+
+“{Ar firlex$啊啊，是嘛}, {salarua$那回头见}.”
+
+　翠这么回应后，因利尼亚背过身去，正要往大路方向回去。就在那一瞬间，旁边的卡莉亚霍站了起来。
+
+“{Tooa pu$托阿 普}!”
+
+　卡莉亚霍的声音像是在叫住因利尼亚。因利尼亚停下了脚步，但没有回头。
+
+“{Aam je naa$阿姆 杰 纳} {fo amn naara$波 阿姆恩 纳腊}. {fu$普}?”
+
+　卡莉亚霍像是在诉求什么似的问道。我虽然一个字也听不懂，但从语调中可以感受到那份诉求的强烈。卡莉亚霍长长的黑发被广场吹来的风轻轻拂动着。
+
+"......"
+
+　因利尼亚很抱歉似的低下了头。仿佛那就是她所能做出的最大回应，她头也不回地就那么离开了。
+　呆立着的卡莉亚霍，脸上挂着一副仿佛看到了什么异样之物的表情，就那么杵在原地。

@@ -1,0 +1,98 @@
+#259 八崎翠不是吟游诗人
+#259　八ヶ崎翠は吟遊詩人ではない
+
+
+“{Zu$也就是说}, {agcelle es$所谓韵脚是指} {mors faller$……和} {fiertiumss ad$……的数量以及} {fiertiumussu'd$……根据} {dieniep ad$被选出来的东西} {virlarteust$哦}。{Edixa mi$我} {xelvin plasi$……和} {mels fiertiumss$关于……} {ad la lexe'd$之后} {dieniep ja$说明过吧}？”
+"{Zu$すなわち}, {agcelle es$韻脚というのは} {mors faller$……と} {fiertiumss ad$……の数と} {fiertiumussu'd$……によって} {dieniep ad$選ばれるもの} {virlarteust$のことよ}. {Edixa mi$私は} {xelvin plasi$……と} {mels fiertiumss$……について} {ad la lexe'd$は続けて} {dieniep ja$説明したわよね}?"
+
+　面对夏莉雅继续的说明，我姑且默默地点了点头。
+　続くシャリヤの説明にとりあえず黙って首を縦に振った。
+　出现了几个新单词。是“{fiertium$菲耶图姆}”和“{virlarteust$维拉特乌斯托}”。关于前者，她说已经说明过了，这么看来，也许这个才是表示韵脚的单词，而“agcelle”可能表示别的意思。
+　新しい単語が幾つか出てきている。"{fiertium$フィェーテュム}"と"{virlarteust$ヴィーラーテウスト}"だ。前者に関しては既に説明していると言っているあたり、もしかしたらこっちが韻脚を表す単語で、"agcelle"というのは違う意味を表すのかもしれない。
+　夏莉雅继续说下去。
+　シャリヤは言葉を続ける。
+
+“{Virlarteust es$维拉特乌斯托是} {viroto$配合哦}。{Fqa'd durxe$用手头的诗} {leus plasi$来说明} {la lex mal$的话}……”
+"{Virlarteust es$ヴィーラーテウストは} {viroto$合わせることよ}. {Fqa'd durxe$手元の詩で} {leus plasi$説明する} {la lex mal$なら}......"
+
+----
+----
+slommirca slorgerda roftesk la {aldaS'TJ$……一同}.
+slommirca slorgerda roftesk la {aldaS'TJ$……と共に}.
+{misse's$我们} ve aprart {co$你} {el$向……} {set$非常} {viujo'i$……}, {coSTI$你啊}.
+{misse's$私達は} ve aprart {co$あなた} {el$……へ} {set$とても} {viujo'i$……を}, {coSTI$あなたよ}.
+klantez {co$你} jol karse kalt alle {asnaST'I$……}.
+klantez {co$あなた} jol karse kalt alle {asnaST'I$……を}.
+----
+----
+
+　夏莉雅有意识地重读了句尾。虽然词素不同，但所有句子的末尾都以[{sti$斯提}]这个音结尾。这绝对没错。大概是在说押韵的事情吧。但是，光看这个例子，似乎利帕莱涅语诗歌只允许押尾韵。说起来，押韵也在夏莉雅想晚上剪指甲时念的咒语里出现过。
+　シャリヤは語尾をわざと強く発音していた。形態素は違えど、すべての文末は[{sti$スティ}]という音で終わっている。これは間違いない。押韻について言っているのだろう。だが、この例だけを見るとリパライン語詩は脚韻のみしか許されないようにも見える。そういえば、押韻は夜に爪を切ろうとしたときのシャリヤの呪文にも見られた。
+
+----
+----
+“{femmES$芬梅斯} {arfES$阿菲斯} {doluMEN$多鲁门} {pliurMEN$普留门} {shrlO$修洛} {dO$多} {kaxtO$卡修托} {doRNE$多涅} {tiRNE$提涅} {kUx$库修} {dUr$杜}.”
+"{femmES$フェンメス} {arfES$アーフェス} {doluMEN$ドルメン} {pliurMEN$プリューメン} {shrlO$シュロ} {dO$ド} {kaxtO$カシュト} {doRNE$ドーネ} {tiRNE$ティーネ} {kUx$クシュ} {dUr$ドゥー}."
+----
+----
+
+　仔细看这个，也是尾韵。但是，如果她们听到像芬兰神话叙事诗《卡勒瓦拉》的韵律中常用的头韵时，也会将其视为“virlarteust”吗？如果不是的话，那么把“virlarteust”理解成不是表示“押韵”而是“尾韵”似乎更好。
+　これもよく見れば脚韻だ。しかし、フィンランドの神話的叙事詩であるカレワラの韻律などに良く用いられる頭韻を聞いた時、彼女たちはそれを"virlarteust"として捉えるのだろうか。もし、そうでなければ"virlarteust"は「押韻」ではなく「脚韻」のことを表していると理解したほうが良さそうだ。
+
+“{Xalijasti$夏莉雅}, {Ny la lex$像下面这样的} {es virlarteust$也是维拉特乌斯托吗}？ «{NOstus ad$午餐和} {NOleu es$词缀是} {FARvil'd$旗帜的} {FARlea MAL$裙子} {MALca'd$母亲} {MArL$城镇是} {MALfarno$麻烦.}»”
+"{Xalijasti$シャリヤ}, {Ny la lex$次のようなのも} {es virlarteust$ヴィーラーテウストなの}? «{NOstus ad$昼食と} {NOleu es$接辞は} {FARvil'd$旗の} {FARlea MAL$スカートで} {MALca'd$母の} {MArL$街は} {MALfarno$困る}.»"
+
+　为了确认头韵而举出的例句，即使不算错句，意思也是不明所以的。八崎翠不是吟游诗人。要是让他为了确认结构而咏出一句漂亮的诗句，那可就为难了。
+　頭韻を確かめるために出した例文は非文では無いにしても意味不明なものだった。八ヶ崎翠は吟遊詩人ではない。仕組みを確かめるために一つ綺麗な詩句を詠めと言われれば困ってしまうというものだ。
+　夏莉雅一瞬间露出了不太明白的表情，但像是领会了他的意图似的点了点头。
+　シャリヤは一瞬良く分からないというような顔をしていたが、そんな意図を読み取ったかのように頷いて見せた。
+
+“{Ja$嗯}, {la lex es$那被} {virlarteustel$……} {zu veles stieso$称作} {konlavel fer$押韵}{karestut$法} {ja$呢}.”
+"{Ja$ええ}, {la lex es$それは} {virlarteustel$……って} {zu veles stieso$呼ばれる} {konlavel fer$押韻}{karestut$法} {ja$ね}."
+“{Konlavel ferkarestut$孔拉维尔·菲卡雷斯图特}{-esti$啊}…… {Mal$那么}, {fqa'd durxe'd$这首诗的} {virlarteustel es$押韵法是} {harmie$什么呢}？”
+"{Konlavel ferkarestut$コンラヴェル・フェーカレストゥット}{-esti$かあ}...... {Mal$それじゃあ}, {fqa'd durxe'd$この詩の} {virlarteustel es$押韻法は} {harmie$何だろ}?"
+“{La lexe'd$那个} {virlarteustel$押韵法} {es$是} {konlavel ferkatesnok$孔拉维尔·菲卡特斯诺克哦}.”
+"{La lexe'd$その} {virlarteustel$押韻法} {es$は} {konlavel ferkatesnok$コンラヴェル・フェーカテスノックね}."
+
+　夏莉雅像是在重新自问一样，慢慢地回答。恐怕这对母语者来说也是个复杂的地方吧。整理一下的话，“virlarteust”是表示“押韵、合辙”的单词。而各种押韵法（“virlarteustel”是在“{virlarteust$韵}”后面加上表示方法的词尾“{-el$……方式}”构成的单词），就目前能确认到的，是通过在“{konlavel$孔拉维尔}”后面接续单词来表达的。恐怕这个词的意思虽然不明，但应该是动词“{konla$孔拉}”加上“-el”派生的动词性名词吧。后面单词不带格接尾辞这一点，很能支持这个说法。总之，接上“{ferkarestut$菲卡雷斯图特}”就是“头韵”，接上“{ferkatesnok$菲卡特斯诺克}”就是“尾韵”。
+　シャリヤは自分に問い直すようにゆっくりと答えていた。恐らくネイティブでもややこしいところなのだろう。整理すると"virlarteust"は「韻を踏むこと、押韻」を表す単語だ。それぞれの押韻法（"virlarteustel"は"{virlarteust$押韻}"に方法を表す語尾"{-el$～の仕方}"が付いた単語だ）は今確認できるだけでも"{konlavel$コンラヴェル}"に単語を続けることで表される。恐らく、この単語も意味は不明だが"{konla$コンラ}"という動詞に"-el"が付いた動詞派生名詞だろう。後ろの単語に格接尾辞が付いていないあたりこの説は濃厚だ。ともかく、"{ferkarestut$フェーカレストゥット}"が続けば「頭韻」に、"{ferkatesnok$フェーカテスノック}"が付けば「脚韻」になる。
+　说到“{tesnok$特斯诺克}”，我曾在费昂夏以“{tesnoken aloajerlerm$个人名}”的形式听过这个词。那是我在尤艾斯雷欧涅徘徊时，在费昂夏听到的。利帕莱涅语的人名（虽然像菲丽莎那样的例外存在）基本上是姓在名前。把这个和尾韵是在单词的尾部——也就是在右端押韵这一点对照起来看，就能明白“tesnok”是表示“右”的名词。那么，“restut”的意思自然也就明白了吧。没错，是“左”。像是前缀的“{ferka-$菲卡}”大概表示“端”之类的语感吧。
+　"{tesnok$テスノック}"といえば、"{tesnoken aloajerlerm$個人名}"という形でも聞いたことがある単語だ。ユエスレオネをさまよっていた時にフィアンシャで聞いた。リパライン語人名の個人名は（フェリーサなどの例外はあろうが）基本的に姓名の順番になっている。これと脚韻が単語の脚――つまり、右端で踏まれるものであることを照らし合わせて考えると"tesnok"は「右」を表す名詞であることが分かる。すると自ずと"restut"の意味もわかるだろう。そう、「左」だ。接頭辞っぽい"{ferka-$フェーカ}"は恐らく「端」などのニュアンスを表しているのだろう。
+
+“……{Cenesti$翠}？”
+"...... {Cenesti$翠}?"
+
+　夏莉雅神色担心地探头看向这边。她垂下的美丽银发轻柔地碰到我的手边。看来我刚才深思了很久。总是在想要理清思路时变成这样。
+　シャリヤの心配そうな顔がこちらを覗き込んでいた。さらりと落ちた美しい銀髪が手元に触れる。どうやら長い間考え込んでいたらしい。筋道立てて考えようとするといつもこうである。
+
+“{Ja$啊}, {edixa mi firlex$说明我} {plasierl$很清楚了} {pelx$但是} {selene mi$想问的事} {nun panqa lap$只有一件}.”
+"{Ja$ああ}, {edixa mi firlex$説明はよく} {plasierl$分かったよ} {pelx$でも} {selene mi$訊きたいことが} {nun panqa lap$一つだけある}."
+“{Harmie$什么}？”
+"{Harmie$何を}?"
+
+　夏莉雅一脸茫然地看着我。
+　シャリヤはきょとんとした顔でこちらを見つめる。
+　我的疑问极其简单明了。
+　疑問は至って単純明快なものだった。
+
+“{Harmie co qune$为什么} {loler iulo$关于诗的事情} {mels durxe$知道得这么多}？{Harmue co$在哪里} {lersse la lex$学到的}？”
+"{Harmie co qune$これだけ多くの} {loler iulo$詩に関すること} {mels durxe$を何故知っているんだ}? {Harmue co$何処で} {lersse la lex$学んだんだい}?"
+
+　试图回答的夏莉雅一脸困惑，一副不知道该说什么才好的表情。
+　答えようとしたシャリヤは何を言えばいいのか分からないという顔で戸惑っていた。
+　我问了什么不该问的事情吗。 “fenxe baneart”的噩梦在脑海中复苏。但说出口的话无法收回。在彼此的沉默中，令人不适的气氛持续了一会儿。打破这个局面的，是夏莉雅。
+　なにか訊いてはいけないことを訊いてしまったのだろうか。"fenxe baneart"の悪夢が脳裏に蘇る。だが、言ったことは取り消せなかった。お互いが沈黙の中、居心地の悪い空気がしばらく流れ続けた。そんな状況を断ち切ったのはシャリヤだった。
+
+“{A$啊}, {Edixa mi$有人叫我了} {veles deroko$来着}. {Deliu mi$我差不多} {tydiest ja$得走了}……”
+"{A$あ}, {Edixa mi$呼ばれてた} {veles deroko$んだった}. {Deliu mi$私そろそろ} {tydiest ja$行かなきゃ}......"
+
+　夏莉雅悄悄地把视线转向了我这边。她的眼睛仿佛在说“理解一下吧，送我出去”，等待着我的回应。
+　シャリヤはそろーっとこちらに視線を向けた。瞳は「察して、送り出してくれ」と言わんばかりに答えを待っていた。
+
+“{J, ja$是、是吗}？{Salarua$慢走}, {plasi mels durxe$下次再} {fal ete'd liestu$关于诗} {plax ja$教我哦}！”
+"{J, ja$そ、そうなのか}? {Salarua$いってらっしゃい}, {plasi mels durxe$また今度} {fal ete'd liestu$詩について} {plax ja$教えてよ}!"
+“……{Ja$嗯} {metista$……}……”
+"...... {Ja$ええ} {metista$……}......"
+
+　说着，夏莉雅匆匆离开了房间。沉闷的空气向翠抛出了疑问。究竟，夏莉雅和诗歌知识之间有着怎样的关系呢。由于被她奇怪地蒙混过去，我想知道的心情愈发强烈了。
+　そういってシャリヤはそそくさと部屋から出ていってしまった。淀んだ空気は翠に疑問を投げかけていた。一体、シャリヤと詩の知識にどの様な関係があるのか。変にごまかされたせいで知りたい気持ちは募るばかりだった。

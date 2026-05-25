@@ -1,0 +1,103 @@
+#293 我们有资格说这种话吗？
+#293　私達にそんなこと言えるの？
+
+
+　令人惊讶的是，埃琳娜的宿舍楼就在我和蕾菲的宿舍楼正旁边。两栋建筑相邻，近得能从走廊喊话。如我所料，里面是个毫无特别的房间。我四处打量时，埃琳娜皱起了眉头。
+　驚いたことにエレーナの寮棟は俺とレフィの寮棟の真横だった。廊下から声が掛けられる近さで建物が隣接している。思った通り、中は何の変哲もない部屋だ。じろじろ見ているとエレーナは顔をしかめた。
+
+"{Selene co veles$……在……}{elx kono fiurs ja$看什么呢}，{cenesti$翠}……"
+"{Selene co veles$……を……さ} {elx kono fiurs ja$れたいのかしら}, {cenesti$翠}......"
+"{Nace$对不起}。"
+"...... {Nace$スミマセン}."
+
+　虽然听不懂内容，大概是在说别在房间里东张西望吧。明明没放什么私人物品，还真是严格。
+　内容は分からないが、多分部屋をじろじろ見るなということなのだろう。私物などが置かれている様子は無いのに厳しいものだ。
+　埃琳娜坐在床上，指了指桌旁配的椅子。似乎是让我坐那里。坐下的瞬间，椅子发出嘎吱一声倾斜了，我就那样摔在了地上。
+　エレーナはベッドに腰掛け、デスク脇に備え付けられた椅子を指差した。そこに座れということらしい。腰掛けた瞬間、椅子はぐしゃんという音を立てて傾き、俺はそのまま床に叩きつけられた。
+　听到了埃琳娜发自心底、深感遗憾的叹息声。
+　エレーナの心底残念そうなため息が聞こえた。
+
+"{Edixa jol mi$还是别坐}{lkurf elx deliu$比较好}{perneo niv$我刚想说来着}……"
+"{Edixa jol mi$座らないほうが} {lkurf elx deliu$いいって言お} {perneo niv$うと思ったんだけど}......"
+
+　我重新在地板上坐好，清了清嗓子。重新来过。
+　俺は床に座り直して、咳払いをひとつした。仕切り直しだ。
+
+"{Jol cene niv$我说的话}{co tvarcar$或许}{lkurferl mi'st$难以置信}。"
+"{Jol cene niv$俺の言うことが} {co tvarcar$もしかしたら} {lkurferl mi'st$信じられないかもしれないが}."
+
+　在谈话被埃琳娜掌握主导权之前，我先开口了。
+　話はエレーナに主導権を握られる前に俺から切り出した。
+　我告诉她，和埃琳娜她们分别后，我遇到了浅上和夕张这两个存在。还有，和因利尼亚与夏莉雅一起在斯克利欧提叙事诗的世界里度过的事。用我笨拙的利内帕涅语，抓住要点传达。来到这个世界后发生的事，和夏尔相遇后谈及那些像是恢复记忆的线索的事。
+　エレーナたちと別れた後、俺と浅上、夕張という存在に出会ったこと。そして、インリニアとシャリヤと共にスキュリオーティエ叙事詩の世界で過ごしたこと。拙いリパライン語ながらも要点を絞って、伝える。この世界に来てから起こったこと、シャルと出会い記憶を戻すための手掛かりのようなことを話していたこと。
+　埃琳娜时而眯起眼睛，听着这些。虽然她脸上是心存疑虑的表情，但她没有插嘴，静静地听我说着。等我大致说完，埃琳娜把手贴在脸颊上，露出了思考的表情。
+　エレーナは時折目を細めながら、その話を聞いていた。疑念に駆られているような表情だったが、彼女は口を挟まずに静かに聞いてくれた。一通り伝え終わると、エレーナは頬に手を当てながら考えるような表情になった。
+
+"{Zu$就是说}，{la lex es$那}{als pesta$就是至今为止的全部}{no$啊}。"
+"...... {Zu$つまり}, {la lex es$それが} {als pesta$今までの全て} {no$だ}."
+"{Deliu miss es$我们到底}{harmie'i faller$该怎么做}{fhasfa$才好啊}？"
+"{Deliu miss es$私達は一体何} {harmie'i faller$をすればいい} {fhasfa$わけ}?"
+"{Metista$大概}，{jol surulustan$方法只有夏尔}{es lapj$说的}{lkurferl$那个}{xala'st$吧}……"
+"{Metista$多分}, {jol surulustan$方法はシャルの} {es lapj$言った} {lkurferl$ものだけ} {xala'st$だろう}......"
+"{Pa$但是}，{edixa co$我没能}{firlex niv ja$理解吧}？"
+"{Pa$でも}, {edixa co$理解できな} {firlex niv ja$かったんでしょ}?"
+"{Ja$是啊}，{ci lkurf set$她说的话非常难}。"
+"{Ja$ああ}, {ci lkurf set$彼女はとても難しい} {snietij iulo$ことを言っていた}."
+
+　埃琳娜摊开双手，啪地往后倒了下去。承托住她身体的床垫凹陷成她的形状。她的脸被胸部的曲线遮住，我看不到她的脸色。
+　エレーナは手を広げて、ばたりと後ろに倒れ込んだ。彼女の身体を受け止めたベッドはその形にへこむ。その顔は胸の曲線で隠され、顔色を伺うことは出来なかった。
+
+"{Edixa ci kanti$要教方法的话}{surul pelx$就}{deliu fynet$清楚地说}{lkurf la lex$出来啊}。"
+"{Edixa ci kanti$方法を教えるん} {surul pelx$だったら} {deliu fynet$はっきり言う} {lkurf la lex$べきだったわ}."
+"{Edixa Jol fafsirl$或许不是}{es niv iulo$那种问题吧}{xale la lex$也说不定}。"
+"{Edixa Jol fafsirl$そういう問題じゃ} {es niv iulo$なかったの} {xale la lex$かもしれない}."
+
+　不知不觉间，我的话变成了像是在回敬她一样。埃琳娜似乎对此感到不满，猛地坐起身来，用狐疑的目光看向我。
+　気づかないうちに自分の言葉は意趣返しのようになっていた。エレーナはそれに不満だったのかガバっと起き上がって、怪訝そうな視線をこちらに向けた。
+　怀着一种想揍自己的冲动，我等待着埃琳娜的话。她看起来有点不高兴。
+　自分を殴りたくなる衝動にかられながら、俺はエレーナの言葉を待った。彼女は少しばかり不機嫌そうだった。
+
+"{Harmie co$什么}{kantet$意思啊}？"
+"{Harmie co$どういう} {kantet$ことよ}?"
+"{No es le$对她来说}{vynut fua ci$现在这样更好}。{Ci letix$父母也都在}{josnusn ad$也有美好的回忆}。{Deliu mi celes$把我们的记忆}{icveo ci'st misse'st$给予她，究竟}{nitekerl$是好事吗}？{La lex es$那是不是我们}{niv laprysten$一厢情愿}{jelo mi'st$的}{luxulo'ct$想法呢}？"
+"{No es le$彼女にとっては} {vynut fua ci$今のほうが良いんだ}. {Ci letix$両親も居る} {josnusn ad$し良い記憶だって} {vynut nitekerl$持ってる}. {Deliu mi celes$俺たちの記憶} {icveo ci'st misse'st$を彼女に与えるのは果たして} {nitekerl$良いことなのか}? {La lex es$それは俺たちの} {niv laprysten$独りよがりなん} {jelo mi'st$じゃない} {luxulo'ct$のか}?"
+"{Jol co tast$你打算对她}{ci ja$……吗}？！"
+"{Jol co tast$あなたは彼女を} {ci ja$……する気}?!"
+
+　埃琳娜站起来，朝我走近。她用一副仿佛在说无法相信我的表情注视着我。
+　エレーナは立ち上がって、こちらに近づいてきた。こちらを信じられないとでも言いたげな表情で見つめていた。
+
+"{Mi at letix$我现在也是}{josnusn fal no$有父母的}。{Pa$但是}，{mi es niv vusel$我才不是……}！{La lex es nisa$那是……啊}！"
+"{Mi at letix$私だって今は} {josnusn fal no$両親が居る}. {Pa$でも}, {mi es niv vusel$……じゃない}! {La lex es nisa$それは……よ}!"
+"{Pa$可是}，{xalija letix niv$夏莉雅现在}{nitekerl fal no$没有记忆}。{La lex is$那对现在的}{cirla fua$她来说}{no'd ci$就是真实}。"
+"{Pa$でも}, {xalija letix niv$シャリヤは今} {nitekerl fal no$記憶を持っていない}. {La lex is$それが今の} {cirla fua$彼女にとっては} {no'd ci$本当になる}."
+"{Mal$那么}，{wioll co lern$你要抛下她}{ci ler ja$离开吗}？！"
+"{Mal$じゃあ}, {wioll co lern$あなたは彼女から} {ci ler ja$去ろうっていうの}?!"
+"{Edixa mi lkurf$我没那么}{niv xale la lex ja$说啊}！"
+"{Edixa mi lkurf$そんなことは} {niv xale la lex ja$言ってないだろ}!"
+
+　我也不甘示弱地站起来，吼道。不过，我们都明白这样的争吵没有任何意义。情绪冷却下来后，两人几乎同时安静地坐了下来，脸上都带着有些难堪的表情。
+　俺も負けずと立ち上がって、吠える。しかし、こんな言い合いに何の意味もないことはお互いに分かっていた。熱が冷めると二人共ほぼ同時に静かに、バツが悪そうな顔をしながら、その場に座った。
+
+"{No'd nisa io$现在那个……之中的}{xalija es vusel$夏莉雅是被制造出来的}{xalija zu$虚假的}{veles laozia$……夏莉雅啊}。{Xalija zu$被……了记忆}{veles pielyno$被给予了父母}{nitekerl i ad$被像……一样}{marvelo josnusn$做出来的夏莉雅}{i ad laoziao$说她是真正……什么的}{xale astes i$怎么可能说得出口}{es vusel fal cirla$啊}？{Cene misse's$我们有资格}{lkurf la lex$那样说}{fal cirla$吗}？"
+"{No'd nisa io$今の……の中の} {xalija es vusel$シャリヤは作り} {xalija zu$ものである} {veles laozia$……なシャリヤよ}. {Xalija zu$記憶を……されて} {veles pielyno$両親を与えられて} {nitekerl i ad$……みたいに} {marvelo josnusn$作られたシャリヤが} {i ad laoziao$本当に……だって} {xale astes i$言えるわけ} {es vusel fal cirla$ないじゃない}? {Cene misse's$私達がそんな} {lkurf la lex$ふうに言うことが} {fal cirla$できるの}?"
+
+　我没能反问回去。正因为如此，我在脑海中推测着那些词的意思。
+　訊き返せなかった。だからこそ、頭の中で言葉を予想した。
+　"{vusel$vusel}"大概是"幸福"之类的正面意思，"{nisa$nisa}"则是它的反义词吧。"{pielyn$pielyn}"从它的宾语来看，按上下文应该是"消除"。"{astes$astes}"信息不足无法判断。
+　"{vusel$ヴゼル}"は恐らく「幸せ」のようなポジティブな意味で、"{nisa$ニザ}"はその逆だろう。"{pielyn$ピェリュン}"はその目的語を見るに文脈的に考えるなら「消す」だ。"{astes$アステス}"は情報不足で分からない。
+　我沉默地思考着词义时，埃琳娜静静地继续说了下去。
+　俺が黙って意味を考えているとエレーナは静かに言葉を続けた。
+
+"{Cirla'd$真正的}{ales.xalija es$阿莱斯·夏莉雅}{nitekerlestaner$只是那个记忆中的存在}{lap$而已哦}。{Nix niv$别误会了}。"
+"{Cirla'd$本当の} {ales.xalija es$アレス・シャリヤは} {nitekerlestaner$あの記憶の中の人} {lap$だけよ}. {Nix niv$勘違いしないで}."
+
+　她几乎快要哭出来了。
+　彼女は半ば泣きかけていた。
+
+"{Liaxu mi firlex$我明白啊}。{Mi firlex la lex$我是明白}{pa$的}……"
+"{Liaxu mi firlex$分かっているんだ}. {Mi firlex la lex$分かっているん} {pa$だけど}......"
+
+　之所以吞吞吐吐，是因为即便埃琳娜说的是对的，但事态并非那么简单——这些念头在脑海中纠缠在了一起。
+　言い淀んだのは、エレーナの言っていることは正しくても事態はそんなに単純ではないということが頭の中で絡まりあったからであった。
+

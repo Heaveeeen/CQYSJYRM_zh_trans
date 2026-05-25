@@ -1,0 +1,125 @@
+#261　交织的关系
+#261　輻輳する関係
+
+
+"{«xorlnem»$肖尔内姆}是表达{qante fhasfa'd$非常}{set vynut$美好}{iulo$含义}的词。{Pa$但是}，{«xorln»'d$肖尔恩的}{kante niv$意思并不是}{es xale la lex$那样的}。{«xorln»$肖尔恩}是{qante letixo$想问什么}{elx selene$事情}{nunerl$之类的}{fhasfa ti$意思……哟}。"
+"{«xorlnem»$ショールネムは} {qante fhasfa'd$何かとても} {set vynut$良いことを} {iulo$表すわ}. {Pa$でも}, {«xorln»'d$ショールンの} {kante niv$意味はそういった} {es xale la lex$ものじゃないの}. {«xorln»$ショールンは} {qante letixo$何か訊きたい} {elx selene$ことがある} {nunerl$という} {fhasfa ti$意味……よ}."
+"{Ja$啊}，{ers julesn$就是那么回事}。{Mi kornites$我猜她}{deroko ci$是今天这个休息日}{fal sysnul$被人叫出去}{zu es$的}{desniexil$……来着}。{Edixa mi$我不}{lkurf la$是说过了}{lex ja$吗}？{Fi co arcies$你要是好好听我}{lkurferl mi'st$说……}，{is niv fafsirl$就不会变成这样了}。"
+"{Ja$ああ}, {ers julesn$そういうことだよ}. {Mi kornites$私は彼女が} {deroko ci$この休みの今日} {fal sysnul$呼び出されてる} {zu es$のが} {desniexil$……だった}. {Edixa mi$そう} {lkurf la$言った} {lex ja$だろう}? {Fi co arcies$君が私の話を} {lkurferl mi'st$……ていれば}, {is niv fafsirl$……にはならなかったんだ}."
+"{Ar$啊ー}，{mer$那个}……{nace$对不起}……"
+"{Ar$あー}, {mer$えっと}...... {nace$ごめん}......"
+
+　两人用一副拿我没办法的表情看向这边。归根结底，这次就是所谓的反向"fenxe baneart"吧。
+　二人はしょうがないというような表情でこちらに視線を向けていた。つまるところ、今回は逆"fenxe baneart"ということだったのだろう。
+　整理一下，"xorlnem"和"xorln"从根本上意思就不同。前者确实是"出色"的意思，但后者似乎是表示"抱有疑问"这类意思的形容词。也就是说，因利尼亚说"la lex es xorln"的意思是"那还真是奇怪啊"。顺便根据上下文，"{arcies$阿希斯}"和"{fafsirl$法夫希尔}"分别应该是"（别人的话）听"和"问题"的意思吧。
+　整理すると、"xorlnem"と"xorln"は根本から意味が違うということだ。前者は「素晴らしい」で合っているが、後者は「疑問を抱く」のような意味の形容詞だったようだ。つまり、インリニアが"la lex es xorln"と言ったのは「それは奇妙だな」という意味だったということだ。ついでに文脈的に"{arcies$アースィェス}"と"{fafsirl$ファフズィール}"はそれぞれ「（人の話を）聴く」、「問題」という意味だろう。
+　因利尼亚好像变得不高兴了，她抱起双臂瞪着我。
+　インリニアは不機嫌になってしまったらしく、腕を組んでこちらを睨んでいた。
+
+"{La lex es$我}{viedosten$……}{la firlexili'a$搞不懂……}{firxj cis$……！}{Ers tirfao'i$……之类的……}{celde fai$…………}{naveushouten$…………}{lineparinerganfy$利帕内语……啊}。"
+"{La lex es$それは} {viedosten$……な} {la firlexili'a$解る……} {firxj cis$…………}!  {Ers tirfao'i$……を……} {celde fai$…………} {naveushouten$…………} {lineparinerganfy$リパライン語……だ}."
+"{Intarmerdertt ti$……}。{Lirs$……}，{harmie liaxa$为什么你们}{coss fas lkurferl$开始说}{mels la lex$这种话}？"
+"{Intarmerdertt ti$……}. {Lirs$……}, {harmie liaxa$なんであなた達} {coss fas lkurferl$はこんなことを} {mels la lex$言い始めたの}?"
+
+　夏莉雅一脸不可思议地把手伸向因利尼亚那边。因利尼亚挑起一边眉毛，疑惑地回望着她。
+　シャリヤは不思議そうにインリニアの方に手を向ける。インリニアは片眉を上げ、怪訝そうに彼女を見返した。
+
+"{Cun$因为}，{co derok$你这个休息日}{fai en'iar$被工作……}{fal desniexilestan$叫走了啊}。{Merc$……}，{Edixa co$是有什么事情}{derok fua$被叫}{harmie$出去的}？"
+"{Cun$だから}, {co derok$君がこの休みに} {fai en'iar$仕事……} {fal desniexilestan$呼ばれたからだよ}. {Merc$……}, {Edixa co$何の用事で} {derok fua$呼び出さ} {harmie$れたんだ}?"
+"{Jopp$那个}，{edixa mi$我可没被叫}{veles niv$出去}{deroko$啊}。"
+"{Jopp$えっと}, {edixa mi$私は呼び出さ} {veles niv$れてない} {deroko$んだけど}."
+"{Lulas mol$……在…}{luaspast$……那里}。{Edixa cen lkurf$是翠那么}{dalle la lex$说的}！"
+"{Lulas mol$……が…} {luaspast$…にある}. {Edixa cen lkurf$翠がそれ……} {dalle la lex$言ってたんだ}!"
+
+　因利尼亚像是寻求同意一般，再次把视线投向我这边。她那黑曜石般的瞳孔中映着我的身影。另一方面，夏莉雅在听到她那句话的瞬间，像是想起了什么似的，把目光从我身上移开了。
+　インリニアは同意を求めるようにこちらにまた視線を向けてきた。オブシディアンブラックの瞳には自分の姿が映っている。反面、シャリヤは彼女の言葉を聞いた瞬間何かを思い出したかのように視線をこちらから逸していた。
+
+"{Ar$啊}，{mer$那个}，{edixa yst$……}{kenis ja$来着}！{Mi$我}……{veles deroko$……过去……}{jujojeserstana's$被那……的}{ylar lovik nestil$人叫去了}。"
+"{Ar$あぁ}, {mer$えっと}, {edixa yst$…………} {kenis ja$したわ}! {Mi$私}...... {veles deroko$……過去……そ} {jujojeserstana's$の……する} {ylar lovik nestil$人に呼ばれてたの}."
+"{Edixa co yst$……了}{kenis neu$吗}，{mels lovik$……}{nestile'd$关于过去的事情}{iulo$……}？"
+"{Edixa co yst$……していた} {kenis neu$のか}, {mels lovik$……} {nestile'd$過去のこと} {iulo$に関して}?"
+
+　面对因利尼亚的追问，夏莉雅皱起了脸。也许她有什么不想说的事情。又或者说，"被人叫去了"这句话，可能只是那时被问到那个问题时，用来脱身的权宜之计。
+　インリニアの追求にシャリヤは顔を歪ませる。何か言いたくないことでもあるのかもしれない。もしくは誰かに呼ばれていたというのはあの時あの質問を訊かれた時に抜け出すための方便だったのかもしれない。
+
+"{Pusnist ja$别问了}，{inlini'asti$因利尼亚}。{Ci at letix$她也会有}{elx selene$不想说}{niv lkurferl$的事情吧}。"
+"{Pusnist ja$止めておけよ}, {inlini'asti$インリニア}. {Ci at letix$彼女にも話し} {elx selene$たくないこと} {niv lkurferl$はあるだろ}."
+"......"
+"......"
+
+　夏莉雅一脸抱歉地低下头，沉默了下来。至于因利尼亚，她也不好意思地挠着脸颊，把视线投向了外面下着雨的地方。这气氛实在是糟透了。最好换个话题。说到能盖过现在这种气氛的话题，恐怕只有那个了。
+　シャリヤは申し訳無さそうに俯いて黙ったままになってしまった。インリニアはといえばバツが悪そうに頬を掻きながら雨が降っている外に視線を向けていた。とてもじゃないが酷い空気だ。話題を変えたほうが良さそうだ。今の空気を塗り替えるくらいの話題といえばあれしかないだろう。
+
+"{M, mer$那、那个}，{qasti$你们两个}，{selene miss$想回到}{tydiest ladir'd$原来的世界}{unde'c ja$去吧}？{Mag$所以}，{mi tisod melferto$我正在}{veles stieso$想找}{jurbali$一个名叫}{anniastan zu$夕张的男人}。"
+"{M, mer$え、えっと}, {qasti$二人とも}, {selene miss$元の世界に} {tydiest ladir'd$戻りた} {unde'c ja$いだろ}? {Mag$だから}, {mi tisod melferto$夕張という名前} {anniastan zu$の男を探そうと} {veles stieso$考えて} {jurbali$いるんだ}."
+"{Jurbalisti$夕张}？{Ni es harmae$他是谁}？"
+"{Jurbalisti$ユーバリ}? {Ni es harmae$彼は誰なの}?"
+
+　夏莉雅虽然对这突如其来的话题转变感到惊讶，但还是兴致勃勃地转过身子面朝我。她那如堇青石般的眼眸等待着回答。另一边，因利尼亚则静静地等待着下文。
+　シャリヤはいきなりの話題の変化に驚きながらも興味津々な様子でこちらに向き直った。アイオライトのような瞳が答えを待っている。一方、インリニアは静かに続きを待っていた。
+
+"{Si es jurleten$他是我们回到}{larta mels$原来世界的}{tydiesto ladir'd$关键人物}"
+"{Si es jurleten$彼は俺達が元の} {larta mels$世界に帰るのに} {tydiesto ladir'd$重要な鍵を握る} {unde'ct misse'st$人物なんだ}"
+"{Jurbali l'es si$你说的夕张}，{es niv chaku zelx$不是想杀你}{jol reto$……}{co$……吗}？"
+"{Jurbali l'es si$ユーバリってのは} {es niv chaku zelx$君を殺す……} {jol reto$……じゃない} {co$……のか}?"
+
+　不知是否是对突然提起夕张的事情感到可疑，因利尼亚立刻表示了疑问。从她的语气中，我能感觉到她认为和那个人扯上关系是否危险的想法。所以，在这里我必须把不懂的单词彻底搞明白之后再推进谈话。要是像刚才那样一知半解地推进话题，这次恐怕真的不会再被信任了。
+　いきなりの夕張の話を訝しげに思っているのかインリニアは即座に疑問を示してきた。その声色からは彼に関わるのが危険ではないかという考えが感じ取れた。だから、ここは分からない単語をはっきりと理解してから話しを進めねばならない。さっきのように中途半端な理解で話を進めれば今度こそ信用してもらえなくなるだろう。
+
+"{Nace$抱歉}，{inlini'asti$因利尼亚}。{«chaku» ad «jol»$ 'chaku'和'jol'}{'d kante es$的意思}{harmie$是什么}？"
+"{Nace$ごめん}, {inlini'asti$インリニア}. {«chaku» ad «jol»$"chaku"と"jol”}{'d kante es$の意味って何} {harmie$なんだ}?"
+"{«chaku» m'es$ 'chaku'是……}{ny zelk$敌人的反义词}，{«jol»$ 'jol'是}{es kraftona$表示打算}{zu qante tisodo$做某事的}{eso'i fhasfa'it$助动词}。"
+"{«chaku» m'es$"chaku"……} {ny zelk$敵の反対}, {«jol»$"jol"は} {es kraftona$何かをしようと} {zu qante tisodo$考えている} {eso'i fhasfa'it$ことを表す助動詞だ}."
+"{Hmm$嗯}，{«m'es» es harmie$那'm'es'是什么意思}？"
+"{Hmm$うーん}, {«m'es» es harmie$"m'es"ってのは何なの}?"
+
+　也许是接连不断的提问导致对话无法进行，让因利尼亚积攒了挫败感，她深深地叹了口气。趁着这个间隙，夏莉雅举起了手。
+　インリニアは矢継ぎ早の質問で会話が続かないのにフラストレーションが溜まったのか大きなため息を付いた。その間を縫うようにしてシャリヤが手を挙げた。
+
+"{Mi plasi$这个由我}{mels la lex$来说明哦}。{«m'es»'d ladir$ 'm'es'的原始形态}{es «m'-» ad «es»$是 'm'-' 和 'es'}。{Mal$然后}，{cene kranti'a xale$ 'mal', 'mag', 'cun', 'pa',}{«mal», «mag»$ 'zu'等词……能够}{, «cun», «pa»,$变成}{ «zu» is ftless$那样的}{xale la lex$词}。{Zu$就是}，{la lexess is$这些词会变成}{«m'-», «g'-», «c'-»,$ 'm'-', 'g'-', 'c'-',}{«p'-», «z'-»$ 'p'-', 'z'-'}。{Mal$然后}，{la lexess$这些词……}{nol ftona'l$附着到……上}。{Kranti'a'd$……}{ladir'd$原本}{molal$存在的地方}{io$……}{krante arlat$在文章中}{fal kranteerl$被书写}。{E firlex$懂了吗}？"
+"{Mi plasi$それは私が} {mels la lex$説明するわ}. {«m'es»'d ladir$"m'es"の元の形は} {es «m'-» ad «es»$"m'-"と"es"ね}. {Mal$それで}, {cene kranti'a xale$"mal", "mag", "cun", "pa",} {«mal», «mag»$"zu"などの……は}{, «cun», «pa»,$そのような単語}{ «zu» is ftless$になること} {xale la lex$ができるの}. {Zu$つまり}, {la lexess is$それらは} {«m'-», «g'-», «c'-»,$"m'-", "g'-", "c'-",} {«p'-», «z'-»$ "p'-", "z'-"になるわ}. {Mal$それで}, {la lexess$それらは……へ} {nol ftona'l$と……するの}. {Kranti'a'd$……が} {ladir'd$元々の} {molal$あった場所} {io$では} {krante arlat$……が文章で} {fal kranteerl$書かれるわ}. {E firlex$分かった}?"
+"{A, ar$啊，嗯}，{edixa mi firlex$我懂了}。"
+"{A, ar$あ、あぁ}, {edixa mi firlex$分かった}."
+
+　虽然有一部分是不知道的单词，但只要紧跟上下文，理解起来并不困难。"{kranti'a$克兰提亚}"大概指的是"{mal$然后}"、"{mag$因为}"、"{cun$所以}"、"{pa$但是}"、"{zu$也就是}"这类，也就是"连词"吧。"{nol$诺尔}"与"{noleu$词缀}"相似，应该是"粘着、附着"的意思。这样的话，作为对象的"{ftona$弗托纳}"应该表示的是"动词"这个词类。虽然不太明确，但"{arlat$阿拉特}"大概是某种标点符号吧。
+　一部は知らない単語だったが、文脈を追えば理解は苦しくなかった。"{kranti'a$クランティア}"は"{mal$そして}"、"{mag$だから}"、"{cun$なぜなら}"、"{pa$しかし}"、"{zu$すなわち}"の類い、つまり「接続詞」のことを指すのだろう。"{nol$ノル}"は"{noleu$接辞}"に似ているので「膠着する、接着する」といった意味のはずだ。ならば対象である"{ftona$フトナ}"は「動詞」という品詞を表しているだろう。明確には分からないが"{arlat$アーラット}"はおそらく何らかの約物なのだろう。
+　附着在动词上的"m'-"之类的，看来好像是连词缩略形式。也就是说，"«chaku» **m'es** ny zelk, «jol» es kraftona." 和 "«chaku» **es** ny zelk **mal** «jol» es kraftona." 似乎是相同的。
+　動詞についている"m'-"などはどうやら文接続詞の縮約形だったらしい。つまり、"«chaku» **m'es** ny zelk, «jol» es kraftona."は"«chaku» **es** ny zelk **mal** «jol» es kraftona."と同じということらしい。
+　夏莉雅结束说明后，像是要把对话的接力棒交还给因利尼亚一般，把视线投向了她那边。因利尼亚注意到说明结束后，便带着"{mal$然后}？"的意思向我这边要求答复。
+　シャリヤは説明を終えて、会話のバトンをインリニアに返すように彼女の方に視線を移した。インリニアは説明が終わったのに気づくとともに"{mal$それで}?"とこちらに返答を要求してきた。
+
+"{Mal$那么}，{Co'st$你}{lkurferl es$说的}{julesn$是对的}。{Pa$但是}，{miss mol$我们}{fal fqa$之所以在这里}，{cun$是}{si tisod$其实是他}{xale la lex$造成的}{fal cirla$啊}。"
+"{Mal$それで}, {Co'st$君の} {lkurferl es$言うことは} {julesn$正しい}. {Pa$だが}, {miss mol$俺達が} {fal fqa$ここに居る} {cun$のは} {si tisod$実は彼の} {xale la lex$仕業} {fal cirla$なんだ}."
+"{Hm$唔}……" 
+"{Hm$うむ}......." 
+
+　因利尼亚依旧没有放松怀疑的表情。那是理所当然的，因为完全没有能保证这话可信度的信息。她虽然当面见过夕张，但因为不懂日语，恐怕只留下了他是个在浅上之后到来又离去的谜之人物的印象吧。
+　インリニアは未だに訝しげな表情を崩さなかった。当然だ、話の信憑性を担保する情報がまったくない。彼女は夕張に対面こそしたが日本語が分からない以上、浅上の後にやってきて去っていった謎の人物という印象しかないだろう。
+
+"{Miss tisod$我想}{fie$……}{la lexe'd$那……}{yst edioll$……}{is niv$谈不上是}{suiten ti$办法啊}。{M'ers$……如果}{konametis$是那样}，{fal panqa$首先}{es la lex'i$就应该去做那个}{deliu$才对}。"
+"{Miss tisod$考えて} {fie$……} {la lexe'd$その} {yst edioll$……は……} {is niv$にはならな} {suiten ti$ないわ}. {M'ers$……なの} {konametis$であれば}, {fal panqa$まず最初に} {es la lex'i$それをやるべき} {deliu$だわ}."
+
+　回过神来，发现夏莉雅把手放在胸前，正在向因利尼亚倾诉。仔细想想，最想回到原来世界的，应该是夏莉雅吧。不仅仅是埃琳娜。她和许多熟人都被迫断绝了联系。她虽然看起来表现得很坚强，但其实是很脆弱的。
+　気づけばシャリヤが胸に手を当ててインリニアに訴えかけていた。良く考えれば、一番元の世界に帰りたいのはシャリヤだろう。エレーナだけではない。多くの知り合いと断絶されてしまった。気丈に振る舞っているように見えて彼女は弱いのだ。
+　也许是她这番倾诉起了作用，因利尼亚自然地对她的话点了点头。
+　そんな訴えが通じたのか、インリニアは彼女の言葉に自然に頷いていた。
+
+"{Firlex$知道了}，{mal fal qa$那么接下来}，{hame cene$要怎么做}{miss melfert si$去找他}？"
+"{Firlex$分かった}, {mal fal qa$じゃあ次だ}, {hame cene$どうやって} {miss melfert si$彼を探すんだ}?"
+"{Wioll Jol miss$我想去向}{nun yfi'a'c mels$尤菲亚}{la lex$打听这件事}。Ci qune loler iulo ja？"
+"{Wioll Jol miss$ユフィアにそれを} {nun yfi'a'c mels$聞こうと思って} {la lex$いる}. Ci qune loler iulo ja?"
+"{Ar$啊}，{ci tydiest$她现在}{elmo fal no$外出打仗去了哦}。"
+"{Ar$ああ}, {ci tydiest$彼女なら今は} {elmo fal no$戦いに出かけているよ}."
+"{Elmosti$打仗}？"
+"{Elmosti$戦いだって}?"
+
+　因利尼亚虽然透露了这个消息并点了头，却没有告诉我们更多细节。不如说，她自己可能也是间接听来的消息吧。从似乎在发生战斗且尤菲亚本人正亲自指挥来看，一旦战事持久，她也有可能暂时回不来。
+　インリニアは情報を出して頷く以上詳細を教えてはくれなかった。というより、彼女自身も又聞きの情報だったのだろう。合戦のようなものが行われてユフィア自身が指揮を取っていると見ると、長引けば当分戻ってこない可能性もある。
+　既然暂时回不来，那就不会是剿灭山贼之类的行动了。也就是说，周边的局势也变得不稳定了吧。
+　当分戻ってこないのならば、野盗刈りのようなものでは無いことになる。近隣の情勢も不安定になっているということだろう。
+
+"……有种不祥的预感啊。"
+「……嫌な予感がするな」
+
+　我用日语发出的这句低语，被雨声吞没消失了，但似乎并未被她们两人听到，因而也没有受到追问。
+　日本語で呟いた言葉は雨音に飲み込まれて消えたが、二人には聞こえていなかったようで追求を受けることは無かった。
