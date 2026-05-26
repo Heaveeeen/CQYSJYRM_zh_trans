@@ -1,0 +1,67 @@
+#262　クローマ
+
+
+　夜、雨雲の過ぎ去った空は快晴だった。古代の星空は周りに光が無いだけはっきりと見える。周りを見るのに頼りになるのは月の光だけ。人工的な光のない世界は自分を異様な気分にさせる。だが、星々を見ているだけで不思議に安心にすることが出来た。
+　またも眠れず屋上に座りながら空を見上げていた。ぼやっとしているうちに一日は颯爽と過ぎ去っていく。そんな一日一日を振り返りながら、今の生活も悪くないなと一瞬思ってしまった。インリニアが居れば、言葉はある程度通じる。言葉が完全に分からないのは今に始まったことではない。それにシャリヤが居れば文化もある程度分かる。この古代でも生きていけるのだろうか、その問いに"{Ja$はい}"と答えるには些か覚悟が足りなかった。
+
+"{Cenesti$翠}, {co mol ja$居る}?"
+
+　恐る恐るという感じの声が聞こえた。目をやるとそこには蒼目の少女が階段脇からこちらに視線を向けている。
+
+"{Xalijasti$シャリヤ}......?"
+
+　薄い青色のチュニックにスカーフを合わせている。月の光に照らされた銀髪はきらめき、そよ風に揺れている。こちらに近づいてきて、彼女は俺の横に座った。
+　前日のインリニアの件で妬いて、それで来たのだろうか。それにしては雰囲気が硬い。彼女は唇を一文字に結んで、なかなか喋り出さなかった。
+
+"{Co sulaun niv$寝ないのかい}?"
+"...... {Mi selene$私はあなたに} {nacees co'c$謝りたかったの}."
+
+　そういえば、助動詞は文中に入る時"eo lex"（もしくはその省略形elx)を入れるんじゃなかったのだろうか。いや、そんな疑問よりも重要なことがある。
+　シャリヤは目を細めて俯いていた。それは泣き出さないように頑張って踏みとどまっているようにも見える。謝りたかったのは詩をどこで学んだのか、誰に何故学んだのかという質問に答えられなかったことだろうか。
+
+"{Als larta letix$誰にだって} {elx selene niv$話したくないことは} {lkurferl ja$あるだろう}, {xalijasti$シャリヤ}. {Nacees niv plax$謝る必要はないよ}."
+"{Niv$いいえ}, {co es$あなたは} {jurleten larta$私にとって大切} {fua mi gelx$な人だから} {deliu mi$いつか私も} {jostol fal$‥‥しなきゃ} {fhasfavil$と思って}......"
+「シャリヤ……」
+
+　俯いた顔はどのような表情なのか。月の光を遮る髪の中は伺い知れなかった。
+
+"{Penul liestu io$昔の話だけど} {mi'd vixij es$私の父親は} {klorme'd kantier$詩学院の教師だったの}. {Zu$つまり}, {la lex es$クローマ} {klorma$のことね}."
+
+　ゆっくりと語りだした言葉に静かに頷く。"{klorma$クローマ}"は"{klorme$詩学院}"とは一字違いだが、詩学院の教師を指すらしい。
+
+"{Mag$だから}, {mi veles$私は} {kantio $スキュリ} {skyli'orti'e'd$オーティエ教典と} {xendusira ad$韻律を} {agcelle$教えられた}. {Mal$それだから}, {Cene akranti$私はその} {la lexe'd durxess$詩を書かれたものを} {fal ytarta$使わずに} {filx kranteerl$……で読めるの}."
+"{Firlex$なるほどな}, {pa$でも} {harmy cene$なんでそれを} {niv co lkurf$言うことが} {mels la lex$出来なかったんだ}?" 
+"...... {Cun, ydicel$あなたが居なくなる} {molo niv co'st$ことが怖いから}."
+
+　言葉が途切れて、静寂が訪れる。
+
+"{Mi'd vixij$私の父親は}...... {veles retoo$フェンテショレーである} {dznojuli'o zu es$……に殺された} {fentexoler$なぜなら} {cun si veles$改宗者だと} {jelo xoler'c$思われたから}. {Pa$でも}, {edixa si melses$彼は……の} {niv als$……には} {lertasen$関わっては} {vosepo$居なかった}. {Harmy si$何故彼が} {veles retoo$殺されたか}. {La lex'i firlex$分かる}?"
+"...... {Niv$いや}"
+"{Cun, si$彼がクローマ} {es klorma$だったからよ}. {Jeska g'velg$イェスカは} {skyli'orti'e$スキュリオーティエを} {fua xol$改宗のために……したから}, {fentexolerss$フェンテショレーは} {tisod ny la lex$こう考えたの}. {Xolerss xale$クローマは} {c'es klorma's$改宗派のようなものだ}, {kanti skyli'orti'e$なぜなら叙事詩を教えるからってね}."
+
+　一気に言い切ったシャリヤの声色は震えていた。
+　ところどころ分からない単語はあるものの、大筋はつかめる。"{vosepo$ヴォゼポ}"と"{vosepust$デモ行進}"、"{lertasen$レータゼン}"と"{lertasal$レータザル}"は同根に思える。それぞれ「訴えること」と「（宗教的）教えの」という意味だろう。
+
+"{Edixa mi kanti$私はあなたが} {mels durxe celx$喜んでくれればと} {selene mi celes$思って詩を教え} {vuselo co'st pa$たけれども} {mi celes niv$彼みたいに} {lerno co'st$離れてほしく} {xale si$ないの}."
+"{La lex es$それは}......"
+"{Mi firlex$分かってるわ}. {Co taty$あなたは} {la lex$それを} {fal eustiravil$何回も……した}. {Pa$でも}, {mi ydicel$怖いの}. {Jol mi'd$私の……な} {yletta larta$人が……} {i is fanknen$私……} {fai mi$……になる}. {Edixa mi$私はカリアホ} {alceto kali'aho$を……なしで} {filx zifoscur$‥…した} {gelx$だから} {jol lizackes$……ではあなたを} {co fal xeu$……でしようとする}!"
+
+　シャリヤの声は段々と嗚咽混じりになっていた。顔こそ見えないが、きっと泣いているのだろう。話す言葉も何を言っているのか殆ど理解できない程になっていた。それほど彼女は自分に話す時に配慮して、言葉を選んでいたということだ。無論、最初からシャリヤを見放すつもりはない。無いがここまで健気で愛しい人を平気で見捨てられるわけがない。
+　横に座っているシャリヤの頭を撫でながら、懐から一枚の紙を取り出した。
+
+"{Xel fqa plax$これを見てくれ}, {xalijasti$シャリヤ}."
+"{Fqa es$これは}...... {durxe$詩}?"
+
+----
+Mi'st noil io set g'lirf co fal alsileu, lkurf ja.
+Alsersti! Cest niv nateu l'furnkie miss'd melso.
+Lkurftless adeu flarska niv cest qa, zelkesti!
+----
+
+　シャリヤの目の前にあるのは先日詩学院にもらった紙だ。それにリパーシェが綴られている。ただの散文ではない。彼女に教えてもらった詩形でなにか一つ書いて、贈ろうと思って作ったものだった。
+
+"{Liaxu mi$今まで生きて} {niejod fal no$これたのは} {cun co celdin$君が何時も助けて} {fal alsil$くれたからだ}. {Mi lern niv co ler$俺は君からは離れない} {melx$それに} {cene miss$俺達は} {dosnud ladir'd$元の世界に} {unde$帰れる}. {Liaxa miss$夕張を見つけ} {melfert$さえすれば} {jurbali lap$俺達の} {melx miss$危機なんて} {letix niv fafsirl$終わるんだ}. {Mag$だから},"
+"......"
+"{Tvarcar mi plax$俺を信じてくれ}."
+
+　シャリヤは静かに頷く。既に涙は止まったようで、静かにそのまま眠るかのような息づかいが背中を揺らしていた。

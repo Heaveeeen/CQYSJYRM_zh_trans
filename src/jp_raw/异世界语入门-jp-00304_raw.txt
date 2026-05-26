@@ -1,0 +1,81 @@
+#305　もう泣かせちゃダメですよ
+
+
+　レフィを探して学園の中を走り回っていた。彼女が居る場所といえば、限られている。だが、学園の中に彼女の姿は見当たらなかった。どこか外へと出ているのだろうか。
+　だとすれば、場所は一つに限られていた。
+
+"{Xatvasti$先輩}......"
+
+　レフィは顔を上げて近づいてくる俺の姿を見た。その表情は疲れ切ったようなものを感じさせる。
+　ここは洪水のときに彼女が避難していた用水路の脇の小さな祠のような建物だ。今日の天候は晴れで、あのときと比べれば水位はとても低かった。
+　彼女は浮かない表情でこちらから視線を外していた。
+
+"{Lefhisti$レフィ}, {senost mi$とりあえず} {lkurferl fal$俺の話を} {panqa plax$聴いてくれないか}."
+"......"
+"{Jol co niv$信じてくれない} {tvarcar pelx$かもしれないが} {edixa penilestan$目を覚ました} {xelerl'it ler$あの時から} {mi is niv dalle$俺は君の知っている} {tuanerl co'st$俺じゃなくなってたんだ}. {mi qune niv$目を覚ます前に} {tisoderl mi's$俺が考えていた} {pesta penilestan$ことは分から} {xelerl'it$ないんだ}."
+
+　彼女は俯いて、受動的な姿勢で俺の話を聞いていた。
+
+"{Pa$でも}, {mi ny lirf$君のことが嫌いな} {niv co$わけではないんだ}. {Tvarcar mi mels$それだけは} {la lex lap$信じてほしい}."
+"......{Mal$それじゃあ}, {harmie co$なんであんな} {lkurf xale la lex$ことを言ったんですか}?"
+"{lefhisti$レフィ},"
+
+　こちらを見上げたその瞳は涙で潤んでいた。その視線で俺の心は乱される。
+
+"{Fal cirla$実は}, {Mi mol fua$俺は一人の人の} {panqa'd larta$ためにここに} {fal fqa$居るんだ}. {Deliu mi celes$俺は彼女の記憶を} {icveo gennitekerl$取り戻さないと} {ci'lt$いけなかった}."
+"{Cistan es$その彼女ってのが} {ales.xalija ja$アレス・シャリヤなんですね}?"
+"{Ja$そうだ}."
+
+　レフィは深くため息を付いた。
+
+"{Edixu mi veles$私はそのために} {luso fua la lex$利用されていた}. {Zu$つまり}, {Co lkurf la lex ja$あなたはそう言うんですね}?"
+"{Ci es jurleten$彼女は俺にとって} {larta fua mi$大切な人だったんだ}."
+"{Co tisod niv$あなたは私がどう} {mels tisoderl mi'st$思ってるかなんて考えないで} {mal tisod lapj$アレス・シャリヤが} {icveo ales.xalija$得られればよかったんだ}."
+"{Niv$それは違う}!"
+
+　俺は思わずレフィの両肩を掴んでしまった。彼女はびくっと驚きに身を震わせて反応した。
+
+"{Mi tisod mels co fal$俺は君のことを} {loler$ずっと} {loler$ずっと} {loler$ずっと} {liestu mal$考えて} {malfarno mels$この問題にどう} {les vynut gennunel$答えれば最良なのか} {fafsirlestan$考えてきた}. {Pa$でも}, {cene mi es fqa'i lap$俺に出来るのはこれだけだ}."
+"{Xatvasti$先輩}......"
+"{Wioll jol co$君は俺に} {genelirf mi$幻滅するだろうな}. {Pa$でも}, {cene niv mi$それ以外俺には} {text filx la lex$選べなかったんだ}. {Co is werlfurpu'd$君がウェールフープの} {belarxte nyj mal$お偉いさんになって} {mi mol xalija'tj$俺がシャリヤと一緒に居るには}."
+"{Nace$ごめんなさい}, {pa$でも}......"
+
+　レフィは静かに泣き始めた。いつも元気な彼女らしくなく、しめしめと泣きながら鼻をすすっている。
+
+"{Pa$でも}, {cene niv mi$私先輩のこと} {gentuan xatvastan$忘れられませんよ}. {Cun$だって}, {mi lirf co ja$私あなたのことが好きなんだもん}, {xatvasti$先輩}."
+"{Niv gentuano$忘れなくても} {es vynut$良いんだよ}."
+
+　彼女は俺のことを見上げた。
+
+"{La lex es$そう}...... {julesn ja$ですよね}."
+
+　そして、潤んだ目を擦ってから、精一杯の笑顔を見せてくれた。
+
+"{Mi vusel fal$私のことが好き} {senosto lirfo mi$だって聞けて良かったです}."
+"{Nace$ごめんな}, {lefhisti$レフィ}."
+"{Nacees niv plax$謝らないでください}, {xatvasti$先輩}. {mi xelvin$私はこれからも}...... {es vynut$大丈夫ですから}."
+
+　そういってレフィはその場から立ち上がって、逆に俺の両肩を持った。
+
+"{Deliu wioll co$もう……を} {celes lijiesto$泣かせちゃだめ} {lartavertzerkh$ですよ}."
+"{Ar$ああ}, {firlex$分かってる}."
+
+　"{lartavertzerkh$ラータヴェーッツェーフ}"は以前聞いたことのある"{estyvertzerph$小太りの男}"に似ている。語尾の"-ph"と"-kh"は前者が男性、後者が女性を指す語尾で今回は女性を表している。あとは語幹だと思われる"{larta$人}"と性別語尾を除いた部分が共通する。"{-vertzer$ヴェーッツェー}"だ。恐らく、最初の"v"は緩衝子音で末尾の"er"は人を表す語尾"{-er$エー}"だろう。そうなってくると"{-ertz$エーッツ}"という接尾辞は「小さい」という意味を持つように思える。となれば、"{estyvertzerph$小太りの男}"の語幹"{estyv$エステュヴ}"は「太る、太っている」のような意味になりそうだ。
+　そんなことをさらっと考えて、俺は"{lartavertzerkh$ラータヴェーッツェーフ}"が「女の子」を指すことに気づいた。
+
+"{Pa$でも}, {edixa mi$俺は君を} {celes lijiesto co$泣かせてしまったな}."
+"{Li'este g'unses niv$涙が落ちてなければ}, {liaxu lijiest niv$泣いてることにはならないんですよ}!"
+
+　元気一杯にレフィはそう答えた。その瞳にはもう涙は無い。
+
+"{Mi korlixtel$私は絶対に泣} {lot lijiest niv$きませんから}."
+"{Ny farfelen$変な考え方} {tisodelestan es ja$だなそれ}."
+"{huh huh$ふふっ}...... {mer$えっと}, {mal$それじゃあ}, {salarua xatvasti$さようなら先輩}."
+
+　再び俯きながら彼女はそういった。別れの言葉を聞いた俺の足は動かなかった。何か言い残したことはなかっただろうかという名残惜しさが足を麻痺させていた。
+
+"{Tydiest ja$もう行ってくださいってば}, {xatvasti$先輩}. {Xatvastan las$先輩なんて}...... {melsj mi tisod$もうどうでも} {niv fal als ja$良いんですから}!"
+"......"
+
+　レフィはそう言っている割に目をこちらから背けて、表情を見せないように頑張っていた。
+　彼女は健気な子だ。俺が居なくても、十分やっていける。そう確信した途端に足の麻痺は解け、気づけば歩き出していた。

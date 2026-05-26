@@ -1,0 +1,36 @@
+#224　双方向通訳
+
+
+"{Kaisa akianu$おはようございます}, {dipaim$キヤスカ} {kijacuka$がお送りして} {aimar$おります}. {Ai'r-uga$アイル} {ytartacirl-uja$ラジオ} {#46$46……} {aimar$です}! {Ceixei kaganu$……} {chepo reaem$話題といえば} {yuesleone-de$ユエスレオネの} {korxli'a-na$難民} {aimar iwa$ですが} {lebi$今日} {akianu$は}, {vosepust-uga$デモの} {reaege asukana$……人である} {jazgasaki$八ヶ崎}.{cen$翠} {sakikata$さんが来ています}!"
+
+"{Xace$ありがとうございます}."
+
+"{Lebi$今日} {akianu$は}, {vosepust-uma$デモについて} {zunaiir$教えてくれるんですよね}?"
+
+"{Ja$ええ}, {no io$今} {als yuesleone'd$全てのユエスレオネ} {korxli'a$難民は} {issyduj$あなた達が住む} {fal PMCF$PMCFで} {zu sietiv cossa'st$酷い目にあっています}. {Cene niv miss$私達子供は} {lex es selunuss$リパライン語で学ぶこと} {lersse fal$が出来ず} {lineparine mal$授業の意味} {firlex$が理解} {lersse'd kante$出来ません}. {Ny selunuss$大人たちは} {letix niv loler$貧しく} {arte'el mal nilirs$賭博に負けて} {fal velfezaino$更に生きる} {melx cene niv$ことが難しく} {niejod$なっています}. {Siss veles issydujo$彼らは仕事でも} {fal duxienil mal$酷い目にあい} {lartass celes ny$人々はユエスレオネ} {eno tvasnker$難民のリパラオネ} {lipalaone'st$教徒を} {zu es yuesleone'd$フィアンシャから} {korxli'a$追い出しました}.  {Pa$しかし}, {edixa sysnul io$私達は今日} {miss klie fal makati$このマカティに} {zu es fqa$集まりました}. {Mal$そして}, {miss ny ircalart lot$私達ははっきりと} {lkurf elx selene$このデモで何が} {icveerl fal$求められて} {vosepustustan$いるかを示すのです}. {Cene niv$一人では} {panqa'd larta$変えられなく} {furnkie pelx$ても} {cene loler$集まれば} {larta furnkie. Wioll$変えられるという} {miss celes$ことを} {xelo cossa'ct$示します}."
+
+"{Kaisa$凄い}! {Lebi$今日} {akianu$は}, {epao$他にも} {chepo asukama$話す人を} {cauyau$……} {sakikata$呼んで} {iwa chepor$居ます}."
+
+"{Cenesti$翠}! {Miss celottiso$俺たちはお前を} {co at$……}!"
+"{Lecu skylolenon$この日で……} {furnkie fal$……} {snenikestan$変えよう}!"
+"{Lecu miss$俺たちが真実を} {jostol cirla$……}!"
+
+"{Xace$ありがとう}.
+
+{Sysnul io$今日} {misse'st lex$私達が変える} {furnkie iulo$問題は} {es niv mels$ユエスレオネ} {yuesleone'd$難民だけでは} {korxli'a lap$ありません}.  {Miss furnkie$私達はこの国の} {ny vynut$人たちが他の} {tisodel$国の人} {sietiversse's$達に抱く} {fqa'd icco'ct ete'd$幾つもの悪い考えを} {icco'd larta'i$覆すためだ}. {Fqa'it senosterss$これを聴いている人たち} {issyduj xale$がああいう} {la lex melx$酷い目にあえば} {wioll selene$私達と同じように} {tisod xale miss$考えるでしょう}. {La lex es$それは} {vi'art fal als$立場の違い} {faller als larta$でしかない}. {Mal$だから}, {vi'arton$同じように} {tisoder$考える人は} {elx wioll cene$俺たちを助ける} {celdin miss$ことができます}."
+
+"{Chesim$……}, {yuesleone-ja$ユエスレオネの} {korxli'a-ma$難民は} {<chesim>$「はい」} {chepos iwa$と言いましたが} {nannunu$どうやって} {epao asukama$他の人が} {dador asuka$……ている人} {ia$……} {kaika acaur$戦えるんです}?"
+
+"{Cene miss$出来} {es e'i$ます}. {Coss firlex$難民と外国人} {korxli'a ad ete'd$を理解して} {icco'd larta$それに} {mal ny nun. Ers$答えるだけで} {la lex lap$良いんです}. {Deliu niv miss$私達は戦う必要もない} {elm mal$し殺し合わなく} {reto miss$ても良いんです}. {Ekce furnkieostan$少しの変化} {lap es vynut$だけで良い}."
+
+"{Huroe$少し}? {Amama nannuma$何か凄いことを} {puatu wuoma$起こすのかと} {hiyar iwa$思ったけど} {huroe$少し}?"
+
+"...... {Edixa loler lartass$多くの人が少しずつ少しずつ} {ekce ekce furnkie$変わっていけば} {niss felx wioll$この国は} {no ler icco$もっといい国に} {is vynut$変わる}. {Mal$そうすれば}, {Ny vynut iulo$難民にもPMCF人にも} {is niv fal als$何も悪い} {faller  korxli'a ad$ことは無い} {PMCF'd larta$はずだ}. {Letixerss vynut$良き心を持つ人々が} {fusaf set klie$集まれば何が} {felx wioll harmie$出来るのかを} {is. Lecu celes$見せつけて} {xelo la lex'it$やろう}!
+
+{La lex xale iulo'i$そんなこと} {es melx$をすれば} {wioll co ny letix$仕事だとか立場が} {duxienerl ol taval$無くなってしまうんじゃないか}. {Tisod niv $とかそんなことは}{la lex plax$考えないでくれ}! {Fqa'it senost$これを聴いて}{er'd als$いる皆が} {furnkie no mal$今を変えれば} {la lex xale iulo'it$そんなことをする} {eser is ekce$人間こそ少なくなる}.
+
+{Mi firlex niv$今どれだけの人が} {senoster'd dieniep$聞いているのか} {fal no$はわからない}. {Mi firlex niv$聞いているうちの} {elx wioll$どれ} {eser'd dieniep$だけの人が} {faller senoster.$するのかも} {Pa$だけど}, {cene mi sneieton$俺には一つだけ} {lkurf panqa$確実に言えることが} {lap$ある}. {40 snenik cecio$俺は信用} {sietiv mi's fua$を得るのに} {veleso tvasnko$40日掛かった}. {Pa$でも}, {Fqa'i$これを} {senoster$聞いている皆が} {elx cene furnkiergil$変われるのは} {elx es set$その一瞬} {ekce liestu$なんだ}.
+
+{Mi tvasnk elx$皆が変わっ} {wioll eso alsa'st$てくれる} {la lex'it$と信じている}. {Als es la lex'i$皆が行動を起こせば} {felx cene furnkie no$今を変えることが出来る}.
+
+{Lecu miss celes$やってみせよ} {xelo misse'd fusaf$うじゃないか}......!
