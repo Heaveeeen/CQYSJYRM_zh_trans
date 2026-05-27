@@ -42,8 +42,8 @@
 
 　我指着她单手提着的购物篮问道。大概是和耶斯卡相关的什么事情吧，不过吃饭基本上是在这个镇上的几处食堂，由固定的人聚在一起吃，所以觉得有点违和。也没听谁说过埃琳娜当上了食堂负责人，说不定会有大餐吃。
 
-"{Fua finibaxli$为了……}, ternejafna. {Cen es harmie'i$翠在……} {fal sysnul?$做什么}"
-"{mi akranti fqa$我在图书馆} {fal krantjlvil.$读这个}"//TODO:这里要不要改语序？
+"{Fua finibaxli$为了……}, ternejafna. {Cen es harmie'i fal sysnul?$翠在……做什么}"
+"{mi akranti fqa fal krantjlvil.$我在图书馆读这个}"
 
 　说着，我把《Xol fasel》拿给埃琳娜看，她扬起眉毛很惊讶。
 
