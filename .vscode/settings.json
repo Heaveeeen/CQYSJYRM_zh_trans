@@ -1,0 +1,19 @@
+{
+    "todohighlight.keywords": [
+        {
+            "text": "MAYDO:",
+            "color": "#2255ff",
+            "backgroundColor": "#eeb526"
+        },
+        {
+            "text": "DOUBT:",
+            "color": "#ffeeee",
+            "backgroundColor": "#ee8045"
+        },
+        {
+            "text": "OPTIM:",
+            "color": "#116644",
+            "backgroundColor": "#80dd45"
+        }
+    ]
+}

@@ -9,7 +9,7 @@ Parcdirxel
 
 【ftl.e】{Ers esel parcax'it.$进行帕萨修的方法。}
 
-:{Edixa xol$肖尔} {furnkie parcdirxel.$处置了帕斯迪谢尔}:// TODO:原文“ショルはパースディーシェルをフーンキェした”
+:{Edixa xol$} {furnkie parcdirxel.$肖尔处置了帕斯迪谢尔}://DOUBT:原文“{Edixa xol$ショルはパースディーシェル} {furnkie parcdirxel.$をフーンキェした}”，我看不懂
 
 　勉强能理解的部分翻译成日语，不懂的部分就保留利内帕涅语来表述，结果变得有点像夹带外语的讲话方式，不过也无可奈何。“parcdirxel”的释义倒是好懂，但这里又出现了一个不知道意思的单词“parcax”。仔细一看，感觉这个单词有点像“parcdirxel”。总之，也在字典里查查“parcax”吧。
 
@@ -17,7 +17,7 @@ Parcax
 
 【ftl.a】{Ers$是} icco {ol$或者} marl {ol lartass'i celdino$……或帮助人们} {mal texto$而且，} {tisodel'it.$选择思维方式}
 
-:{Larta's parcax'i$人} {texto$选择} {es lartassera.$是……}://TODO: 原文“人がパーサシュを選ぶことは……である”
+:{Larta's parcax'i$人} {texto$选择} {es lartassera.$是……}://DOUBT: 原文“{Larta's parcax'i$人がパーサシュ} {texto$を選ぶことは} {es lartassera.$……である}”，我看不懂
 
 　释义中，“{icco$伊索}”和“{marl$马鲁}”不懂，但后面的“{lartass'i celdino$……或帮助人们} {mal texto$而且，} {tisodel'it.$选择思维方式}”理解了。大概前面两个词是在罗列主语吧，不用想太多也问题不大。也就是说，“parcdirxel”的释义“Ers esel parcax'it.”写的是“帮助人们，并进行选择思维方式的方法”。
 
