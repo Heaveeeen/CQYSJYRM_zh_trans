@@ -14,6 +14,11 @@
             "text": "OPTIM:",
             "color": "#116644",
             "backgroundColor": "#80dd45"
+        },
+        {
+            "text": "MAYOP:",
+            "color": "#161069",
+            "backgroundColor": "#60aa35"
         }
     ]
 }
