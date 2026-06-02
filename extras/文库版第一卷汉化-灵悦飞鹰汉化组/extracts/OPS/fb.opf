@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<package version="2.0" unique-identifier="PrimaryID" xmlns="http://www.idpf.org/2007/opf">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>异世界语入门 ～虽然转生了却不通日语～ 第1卷</dc:title>
+<dc:identifier opf:scheme="ISBN"></dc:identifier>
+<dc:language>zh-CN</dc:language>
+<dc:creator>FafsF.Sashimi</dc:creator>
+<dc:publisher>epub掌上书苑</dc:publisher>
+<dc:description>等意识到的时候八崎翠已经穿越到了异世界一个陌生的家中。
+用得到的开挂能力成为后宫王，每天沉浸在欢歌乐舞中——对异世界生活有着这样期待的翠，在听到眼前的银发美少女夏莉雅出声之后，愣住了。
+我居然听不懂她的话……？转生到的异世界居然不通日语。
+翠赶紧慌慌张张的开始学习异世界语，想着可以尽早与她进行沟通。然而这个时候世界却发生了战争，被战争卷入的两人，被似乎是夏莉雅朋友的军人带到其他地方的避难所进行避难，但是，去避难的地方居然要和夏莉雅同住在一个房间里生活！？
+语言相通的异世界就不是真正的异世界！？因为想和女孩子说话【超】纯粹的动机而开始学习异世界语言的故事！</dc:description>
+<dc:coverage></dc:coverage>
+<dc:source>http://www.cnepub.com</dc:source>
+<dc:date>2021-07-18</dc:date>
+<dc:rights>本电子书由epubBuilder制作生成，欢迎访问http://www.cnepub.com分享交流海量电子书。
+epubBuilder仅供交流使用，未经授权，不得用于商业用途。</dc:rights>
+<dc:subject></dc:subject>
+<dc:contributor></dc:contributor>
+<dc:type>[type]</dc:type>
+<dc:format></dc:format>
+<dc:relation></dc:relation>
+<dc:builder>epubBuilder</dc:builder>
+<dc:builder_version>3.1.08.28</dc:builder_version>
+<meta name="cover" content="cover-image"/>
+</metadata>
+<manifest>
+<!-- Content Documents -->
+<item id="main-css" href="css/main.css" media-type="text/css"/>
+<item id="coverpage"  href="coverpage.html"  media-type="application/xhtml+xml"/>
+<item id="chapter1"  href="chapter1.html"  media-type="application/xhtml+xml"/>
+<item id="chapter2"  href="chapter2.html"  media-type="application/xhtml+xml"/>
+<item id="chapter3"  href="chapter3.html"  media-type="application/xhtml+xml"/>
+<item id="chapter6"  href="chapter6.html"  media-type="application/xhtml+xml"/>
+<item id="chapter7"  href="chapter7.html"  media-type="application/xhtml+xml"/>
+<item id="chapter8"  href="chapter8.html"  media-type="application/xhtml+xml"/>
+<item id="chapter9"  href="chapter9.html"  media-type="application/xhtml+xml"/>
+<item id="chapter10"  href="chapter10.html"  media-type="application/xhtml+xml"/>
+<item id="chapter11"  href="chapter11.html"  media-type="application/xhtml+xml"/>
+<item id="chapter12"  href="chapter12.html"  media-type="application/xhtml+xml"/>
+
+<item id="ncx"  href="fb.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="css" href="css/main.css" media-type="text/css"/>
+<item id="cover-image" href="images/cover.jpg" media-type="image/jpeg"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="coverpage" linear="yes"/>
+<itemref idref="chapter1" linear="yes"/>
+<itemref idref="chapter2" linear="yes"/>
+<itemref idref="chapter3" linear="yes"/>
+<itemref idref="chapter6" linear="yes"/>
+<itemref idref="chapter7" linear="yes"/>
+<itemref idref="chapter8" linear="yes"/>
+<itemref idref="chapter9" linear="yes"/>
+<itemref idref="chapter10" linear="yes"/>
+<itemref idref="chapter11" linear="yes"/>
+<itemref idref="chapter12" linear="yes"/>
+
+</spine>
+<guide>
+<reference type="cover" title="封面"  href="coverpage.html"/>
+
+</guide>
+</package>
