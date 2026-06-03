@@ -1,5 +1,5 @@
 ---
-name: cq-jptrans
+name: cqtr
 description: 为日文轻小说《异世界语入门》翻译相关的问题提供回答或建议
 argument-hint: 询问翻译相关的疑问或建议
 tools: [read, search, web]
