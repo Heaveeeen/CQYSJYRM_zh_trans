@@ -6,52 +6,52 @@
 　感觉似乎做了什么不愉快的梦，但记不太清了。
 　一直在分析夏莉雅说的话，结果就到了这个时间。窗外斜射进的阳光，将树木映成阴影。看样子我从早上起就趴在这里，一直睡到太阳西沉。不管怎么说都睡得太多了吧。
 
-“{Salarua, cenesti.$早上好，翠}”
-“啊，{Salarua$早上好}……”
+"{Salarua, cenesti.$早上好，翠}"
+"啊，{Salarua$早上好}......"
 
 　夏莉雅从上方探头，确认我是否已经醒来。
-　说起来，“{cenesti$翠啊}”的问题还没解决。大概能明白是“{cen$翠}”加上类似呼格的“{-sti$啊}”，但中间插入的那个谜之“e”让我很在意。明明发“censti”的音似乎也可以，难道对方果然以为我的名字是“塞内”吗。
+　说起来，"{cenesti$翠啊}"的问题还没解决。大概能明白是"{cen$翠}"加上类似呼格的"{-sti$啊}"，但中间插入的那个谜之"e"让我很在意。明明发"censti"的音似乎也可以，难道对方果然以为我的名字是“塞内”吗。
 
-“{Xalijasti$夏莉雅}，{Mi'd ferlk$我的名字}{ es <cen>.$之前是翠}{Mer, Deli$呃，所以}{u co lkurf <censti>.$应该说“cenesti”}{ Niv?$对吧}”
-“{Mer$呃}……”
+"{Xalijasti$夏莉雅}，{Mi'd ferlk$我的名字} {es <cen>.$是‘翠’} {Mer, Deliu$呃，所以} {co lkurf <censti>.$你应该叫'cenesti'} {Niv?$对吧}"
+"{Mer$呃}......"
 
 　夏莉雅从架子上取出笔和纸，开始画表。纸上画了一个纵向3格×横向5格的表格。大概是要开始语法说明了，但词汇量还远远不够的翠，能听懂吗。
 
-“{Fal$在……中}lineparine，{kraxaiun fendej ad kraxaiun pervoj mol$有基本动词和基本语序}。”
+"{Fal$在……中} lineparine, kraxaiun fendej ad kraxaiun pervoj {mol$……有}."
 
-　夏莉雅一边重复着“Kraxaiun fendej”和“Kraxaiun pervoj”，一边在最上方的单元格中从第二列开始写下词语。虽然我看不懂文字，但如果她读出来，我就能明白这些文字该如何发音。她写得行云流水，手法娴熟，那字体和词典里看到的印刷体不同，圆润的曲线部分变得棱角分明，有所变化。想必是专门用于手写的字体吧。
+　夏莉雅一边重复着"Kraxaiun fendej"和"Kraxaiun pervoj"，一边在最上方的单元格中从第二列开始写下词语。虽然我看不懂文字，但如果她读出来，我就能明白这些文字该如何发音。她写得行云流水，手法娴熟，那字体和词典里看到的印刷体不同，圆润的曲线部分变得棱角分明，有所变化。想必是专门用于手写的字体吧。
 
-“{<Xalija> ad <Elerna>$夏莉雅……和埃琳娜是}{ es kraxaiun fendej$kraxaiun fendej} mal {<cen> ad <lexerl>$翠……和雷歇尔是}{ es kraxaiun pervoj.$kraxaiun pervoj}”
+"{<Xalija> ad <Elerna>$‘夏莉雅’……‘埃琳娜’} {es kraxaiun fendej$是'kraxaiun fendej'} mal {<cen> ad <lexerl>$‘翠’……‘雷歇尔’} {es kraxaiun pervoj.$是'kraxaiun pervoj'}"
 
-　嗯，看来她是在就“Kraxaiun fendej”和“Kraxaiun pervoj”给我举例说明。“mal”这个词连接着句子，如果把“ad”当作和英语的“and”或日语的“和”一样、用于并列单词的连词，那么这句例句可以理解为：“{Xalija$夏莉雅}”和“{Elerna$埃琳娜}”是“Kraxaiun fendej”，而“{Cen$翠}”和“{Lexerl$雷歇尔}”是“Kraxaiun pervoj”。既然有共性，那分类应该是相同的词类吧……但这共性究竟是什么呢？是看最后一个元音是不是a，还是看词尾是元音结尾还是辅音结尾？不，或许并非如此简单。
+　嗯，看来她是在就"Kraxaiun fendej"和"Kraxaiun pervoj"给我举例说明。"mal"这个词连接着句子，如果把"ad"当作和英语的"and"或日语的“和”一样、用于并列单词的连词，那么这句例句可以理解为："{Xalija$夏莉雅}"和"{Elerna$埃琳娜}"是"Kraxaiun fendej"，而"{Cen$翠}"和"{Lexerl$雷歇尔}"是"Kraxaiun pervoj"。既然有共性，那分类应该是相同的词类吧……但这共性究竟是什么呢？是看最后一个元音是不是a，还是看词尾是元音结尾还是辅音结尾？不，或许并非如此简单。
 　说起来，这真的是音韵上的共性吗。
-　印度前辈说过，语言中存在被称为{语法性$Grammatical gender}或{名词类别$Noun class}的词语分类。
-　这种词的分类，似乎会影响很多方面，比如复数形式、词格变化，以及随之而来的冠词种类等等。例如，在德语中就有阳性、阴性、中性三种语法性别，而每种名词、修饰名词的形容词，以及冠词的形式都会因此产生变化。在非洲使用的斯瓦希里语中，名词分类据说有15种。在翠看来，这纯粹就是麻烦透顶的背诵任务，但印度前辈和他的朋友们却似乎对此兴奋不已。非常抱歉，我是完全没法理解那种感性。
+　印度前辈说过，语言学中有一种给词语分类的方式，称为{语法性别$Grammatical gender}或{名词类别$Noun class}。
+　这种词的分类，似乎会影响很多方面，比如复数形式、词格变化，以及随之而来的冠词种类等等。例如，在德语中就有阳性、阴性、中性三种语法性别，而每种名词、修饰名词的形容词，以及冠词的形式都会因此产生变化。在非洲使用的斯瓦希里语中，名词类别据说有15种。在翠看来，这纯粹就是麻烦透顶的背诵任务，但印度前辈和他的朋友们却似乎对此兴奋不已。非常抱歉，我是完全没法理解那种感性。
 
-"{Mal$再者}，{fal kraxaiun$在……之中}，{ iupqa'd lexef mol$存在着……的……}"
+"{Mal$然后}, {fal kraxaiun$在……之中}, {iupqa'd lexef mol$存在着……的……}."
 
 　夏莉雅在表格最左边那一栏，从第二行开始写了四个单词。发音分别是"jarkenlexef"、"estvarnenlexef"、"neydenlexef"、"firjenlexef"。该不会，利内帕涅语的名词也有像两种分类之类的情况吧。本就费时费力的异世界语言学习，如果连语言本身都有大量需要死记硬背的东西，那真是一点想记的念头都提不起来了。
 
-"{<xalija> ad$"xalija"和}{ <elerna> $"elerna"是}{es jarkenlexef$"jarkenlexef"}{ mal$再者，}{ <cen> ad <lexerl>$"cen"和"lexerl"是}{ es estvarnenlexef.$"estvarnenlexif"}{ <ydun> es$"ydun"是}{ neydenlexef$"neydenlexef"}{ mal$再者，}{ <nyey> es $"nyey"是}{firjenlexef.$"firjenlexef"}"
+"{<xalija> ad <elerna> es jarkenlexef$'xalija'和'elerna'是'jarkenlexef'} {mal$然后，} {<cen> ad <lexerl> es estvarnenlexef$'cen'和'lexerl'是'estvarnenlexif'}. {<ydun> es neydenlexef$'ydun'是'neydenlexef'} {mal$然后，} {<nyey> es firjenlexef$'nyey'是'firjenlexef'}."
 "{Ja......mili......$嗯……等一下……}"
 
 　一股脑地灌输过来可让人很为难。
 　仔细看看单词的形式吧。"xalija"和"elerna"的共同点是都有三个元音，并且词尾以a结尾。那么"cen"和"lexerl"的共同点又是什么呢？虽然元音的数量不同，但两者都以e结尾。也就是说，"jarkenlexef"和"estvarnenlexef"大概分别指的是“以a结尾的单词”和“以e结尾的单词”吧。这样一来，"neydenlexef"和"firjenlexef"单从单词形式来看，应该分别对应“以u结尾的名词”和“以y结尾的名词”吧。嘛，也可能像拉丁语的第三名词变格（是叫这个来着吧）那样，出现那种“这个名词分类的词在词典形的拼写上根本没有共同点哦！诶嘿（心）”的情况。不对，这种事可不是一句诶嘿（心）就能蒙混过关的吧。
-　那么，这和"Cenesti问题"又有什么关系……？
+　那么，这和"Cenesti"的问题又有什么关系……？
 
-"{<Cen>$"Cen"是}{ es estvarnenlexef$以e结尾的单词} {mal$而且} {es kraxaiun pervoj.$是"kranxaiun pervoj"}"
+"{<Cen> es estvarnenlexef$'Cen'是以e结尾的单词} {mal es kraxaiun pervoj.$而且是'kranxaiun pervoj'}"
 
 　夏莉雅的笔尖指向了"kranxaiun pervoj"所在列与"estvarnenlexef"所在行交叉的那个单元格。大概，她是想说"Cen"这个词是以e结尾的单词，并且是"kranxaiun pervoj"吧，可问题是这个"kranxaiun pervoj"的意思还没弄明白。
 
 "{Mal$那么}，fi {co$你} amol <-sti> el <cen>， amol <-e-> cecio <-sti> ad <cen>。"
 
-　夏莉雅在表格旁边一边说着“cen”一边写了三个字母，说着“-sti”一边写了三个字母。然后，在它们中间，一边说着“er”一边放入一个字母。我还不太理解，但说不定，这规则是，在以e结尾的单词后面，如果接上以辅音开头的东西，就要插入er。
-　说到其他以e结尾的单词，我记得的有：“{kranteerl$书物}”、“{ferlk$名字}”、“{firlex$理解}”、“{krante$书写}”、“{xace$谢谢}”、“{selene$想要～}”这些。而以辅音开头的词缀，我记得的有“{-sti$～哟}”、“{-'d$～的}”这些。嗯，作为尝试着说出口的词汇量，应该足够了吧。
+　夏莉雅在表格旁边一边说着"cen"一边写了三个字母，说着"-sti"一边写了三个字母。然后，在它们中间，一边说着"er"一边放入一个字母。我还不太理解，但说不定，这规则是，在以e结尾的单词后面，如果接上以辅音开头的东西，就要插入er。
+　说到其他以e结尾的单词，我记得的有："{kranteerl$书}"、"{ferlk$名字}"、"{firlex$理解}"、"{krante$书写}"、"{xace$谢谢}"、"{selene$想要}"这些。而以辅音开头的词缀，我记得的有"{-sti$～哟}"、"{-'d$～的}"这些。嗯，作为尝试着说出口的词汇量，应该足够了吧。
 
-“{Xalija$夏莉雅}，{mal$那么}，{deliu mi niv lkurf$我是不是不应该说“kranteerl'd ferlk”}{ <kranteerl'd ferlk>$}{ mal deliu mi lkurf $而应该说“kranteerle'd ferlk”}{<kranteerle'd ferlk>?$才对？}”
-“Ja...pa cene {co lkurf$你说了“kranteerl'd}{ <kranteerl'd ferlk>$ ferlk”} at。”
+"{Xalija$夏莉雅}, {mal$那么}, {deliu mi niv lkurf <kranteerl'd ferlk>$我是不是不应该说'kranteerl'd ferlk'} {mal deliu mi lkurf <kranteerle'd ferlk>?$而是应该说'kranteerle'd ferlk'才对}"
+"Ja...pa cene {co lkurf <kranteerl'd ferlk>$你说'kranteerl'd ferlk'} at."
 
-　“cene”……？从夏莉雅回答时的样子来看，她回答时带着不太认同的表情。大概，在这种情况下，无论是“kranteerl'd ferlk”还是“kranteerle'd ferlk”，基于某种规则，或许两边都是被允许的吧。又或者，难道说“kranteerl”和“-'d”的组合偶然间变成了不规则形态，也有这种可能。虽然有可能……
+　"cene"……？从夏莉雅回答时的样子来看，她回答时带着不太认同的表情。大概，在这种情况下，无论是"kranteerl'd ferlk"还是"kranteerle'd ferlk"，基于某种规则，或许两边都是被允许的吧。又或者，难道说"kranteerl"和"-'d"的组合偶然间变成了不规则形态，也有这种可能。虽然有可能……
 
 （实在是太难懂了……）
 
