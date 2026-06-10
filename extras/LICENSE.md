@@ -15,3 +15,5 @@
 著者：FafsF.Sashimi
 插画：藤ちょこ
 ```
+
+`リパライン語辞書.json`来源于这里：[【ZpDIC版】リパライン語辞書 — ZpDIC Online](https://zpdic.ziphil.com/dictionary/lineparine)
