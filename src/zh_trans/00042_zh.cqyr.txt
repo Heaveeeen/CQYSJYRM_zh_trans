@@ -28,7 +28,7 @@
 
 levip
 
-【fto.e】Ers {kranteerl$书} zu plasi kraxaiun ol meiaqerz {ad$然后} et.
+【fto.e】Ers {kranteerl$书} zu plasi kraxaiun ol meiaqerz {ad$和} et.
 Kantecergen kraxaiun : lkurlos
 
 :{Mi$我} melfert <levip> {fal levip$在levip中}.:
@@ -36,7 +36,7 @@ Kantecergen kraxaiun : lkurlos
 　这是一本词条、释义和例句都写得很简洁的词典。"kantecergen kraxaiun"似乎表示某种不同的东西，但后面只跟着单词，说明大概是近义词、反义词、同义词之类的吧。
 　之后有一段像是例句的东西，用类似冒号的符号隔开。【】里的记述大概是词性、名词类别之类的吧。<>是引号。
 　也就是说，能看懂这样的句子结构："<levip>"这个单词在"levip"中被"{mi$我}"给"melfert"了。关于单词，使用词典会做的行为就是“查词典”。估计"melfert"肯定是“查”的意思。
-　如果"levip"是“词典”，那么"lkurlos"大概就是近义词什么的吧。然后，有问题的释义"Ers {kranteerl$书} zu plasi kraxaiun ol meiaqerz {ad$而且} et."全是些完全看不懂的单词。//DOUBT:“有问题的释义”是怎么回事？
+　如果"levip"是“词典”，那么"lkurlos"大概就是近义词什么的吧。然后，有问题的释义"Ers {kranteerl$书} zu plasi kraxaiun ol meiaqerz {ad$和} et."全是些完全看不懂的单词。//DOUBT:“有问题的释义”是怎么回事？
 
 （不，等等……？）
 
