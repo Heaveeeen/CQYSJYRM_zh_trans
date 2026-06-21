@@ -44,14 +44,14 @@ def printRemovedComments():
         print(f"  {count} * {comment}")
 
 def toPlainText(richText: str) -> str:
-    plainText = regex.sub(r'(?<!https?:)//.*?(//|$)', replComment, richText, flags=regex.MULTILINE)
+    plainText = regex.sub(r'(?<!:)//.*?(?<!:)(//|$)', replComment, richText, flags=regex.MULTILINE)
     plainText = plainText.replace("**", "").replace("{", "").replace("$", "（").replace("}", "）")
     plainText = regex.sub(r'^~book~ (.*?)$', r'== \1 ==', plainText, flags=regex.MULTILINE)
     plainText = regex.sub(r'^~chapter~ (.*?)$', r'~ \1 ~', plainText, flags=regex.MULTILINE)
     return plainText
 
 def toHtml(richText: str, title: str) -> str:
-    content = regex.sub(r'(?<!https?:)//.*?(//|$)', replComment, richText, flags=regex.MULTILINE)
+    content = regex.sub(r'(?<!:)//.*?(?<!:)(//|$)', replComment, richText, flags=regex.MULTILINE)
     content = content.replace('"', "&quot;").replace("'", "&#39;").replace("<", "&lt;").replace(">", "&gt;")
     html = """<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
