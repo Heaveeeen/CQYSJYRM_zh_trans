@@ -1,7 +1,7 @@
 #87　中置记法
 
 
-{Lecu sysnul at io$今天……} {miss lersse$我们} {dieniep!$来学习数字}
+"Lecu {sysnul$今天……} at io {miss lersse dieniep!$我们学习数字}"
 
 　白色衬衫搭配黑色九分裤。从头顶垂下的银色马尾，在温和中透出凛然气质。赫根法尔女士在白板上写下几个符号和数字，用笔敲了敲白板说道。
 　上下两行都写着2和1，但中间分别有一个像“丄”形状的符号和一个像“T”形状的符号。1的右边两行都有一个像z的符号，它的右边上面写着3，下面写着1。
@@ -10,49 +10,49 @@
 
 　大概上面是加法，下面是减法吧。丄是+，T是-，z是=吧。只是，不知道用利内帕涅语该怎么说。
 
-{Hingvalirsti$赫芭莉}老师，{mi firlex$我不知道} {niv lkurfel$那个该} {fgir$怎么说}。
+"{Hingvalirsti$赫芭莉老师}, {mi firlex niv lkurfel fgir$我不知道那个该怎么说}."
 
 　听到这话，赫根法尔点了点头，用笔指了指上面的算式。
 
-{Qa$2} atakes {panqa$1} {mal is dqa$然后变成3}。
+"{Qa$2} atakes {panqa$1} {mal is dqa$然后变成3}."
 
 　接着，她又指了指下面的算式。
 
-{Qa$2} ny atakes {panqa$1} {mal is panqa$然后变成1}。
-{firlex.$原来如此。}
+"{Qa$2} ny atakes {panqa$1} {mal is panqa$然后变成1}."
+"{firlex.$原来如此}"
 
-　大概，{atakes$阿塔克斯}、{ny$纽} {atakes$阿塔克斯}分别是“加”、“减”的意思吧。“ny”或许是构成反义词的前置词。
+　大概，"atakes"、"ny atakes"分别是“加”、“减”的意思吧。“ny”或许是构成反义词的{介词$前置詞}。
 　还有一件明白的事，就是自己至今连四则运算都无法用利内帕涅语表达。想到自己这副模样还声称要教夏莉雅日语，不禁感到羞愧。
 
-{Co es$看来} {niv vynut?$不太行呢}
+"{Co es niv vynut?$你还好吗}"
 
 　我叹了口气，赫根法尔担心地看向这边。翠不想让她担心，急忙抬起头想掩饰。
 
-{Niv$不}，{ar$那个}，{harmy$为什么} {jeska qune$耶斯卡会知道} {co'd ferlk$你的名字}，{mi tisod$我一直在想} {fqa$呢}……
+"{Niv$不}, {ar$那个}, {harmy jeska qune co'd ferlk$为什么耶斯卡会知道你的名字}, {mi tisod fqa$我在想这个}......"
 
-　虽然这是为了掩饰而脱口而出的疑问，但也确实是真正感到不可思议的事。来到这个镇上后一次也没和赫根法尔见过面，耶斯卡却知道她的事。我本以为她们之间应该有某种联系。
+　虽然这是为了掩饰而脱口而出的疑问，但也确实是真正感到不可思议的事。耶斯卡来到这个镇上后，一次也没和赫根法尔见过面，却知道她的事。我本以为她们之间应该有某种联系。
 　赫根法尔听到翠的问题，似乎不知该如何回答。想说些什么而张开嘴，又摇头觉得不对，把到嘴边的话咽了回去。在她心中反复犹豫了几次之后，最终带着放弃般的表情坐到了翠旁边的座位上。
 
-{Deliu mi$我想我该} {lkurf$说出来} cirla。{Mi es$我是} {jeska'd$耶斯卡} {lertasala'd$教会方面的} {larta$人}。
+"{Deliu mi lkurf$我应该说} cirla.{Mi es jeska'd lertasala'd larta$我是耶斯卡的教会的人}."
 
 　赫根法尔直视着翠，一脸认真地说道。
 　耶斯卡知道她长相的原因，是因为她们是同一组织的人吗。
 
-{Selene niv$我不想} {mi elm$做什么}，{Pa$但}，jol {ci$她} reto {males$把所有的} {fentexoler$异教徒都}。
+"{Selene niv mi elm$我不想做敌对行为}, {Pa$但是}, jol {ci$她} reto {als fentexoler$所有的异教徒}."
 
 　她一脸沉重说出的话，有些地方我听不太懂。但是，赫根法尔在诉说她对这场内战的感受，那份忧虑通过“elm”这个词和那沉痛的表情，无比真切地传达了过来。
 
-{Cenesti$翠君}，{Edixa co$你不是} {celdin xalija$救了夏莉雅吗}？
-{Ar$啊}，{ja$是的}。
+"{Cenesti$翠君}, {Edixa co celdin xalija$你救了夏莉雅对吧}?"
+"{Ar$啊}, {ja$是的}."
 
 　赫根法尔抓住翠的手，紧紧握住。
 
-{Celdin xale$就像那时候} {fgir'd$一样}，{liestu i$我希望你} {als'i co's$拯救} {plax$大家}。{Cene co$你} {celdin miss$可以拯救大家}。
+"{Celdin xale fgir'd liestu i als'i co's plax$我希望你像那时一样拯救大家}. {Cene co celdin miss$你可以拯救我们}."
 
 　抓住的手传达着恳切的愿望。
 　赫根法尔大概和耶斯卡一样，希望翠能留在“lertasal”吧。虽然细节不清楚，但她在诉求，说这样最终能拯救这个世界的人们。
 
-{Liaxu mi$我} {tisod$会考虑} {pa$的}，{mi firlex$但我不} {niv$明白}。
-{Deliu co$你} {tisod$应该考虑} jetesonj。
+"{Liaxu mi tisod$我会考虑的} {pa mi firlex niv$但我不明白}."
+"{Deliu co tisod$你应该考虑} jetesonj."
 
-　说完，赫根法尔松开了手。她脸上的神情仿佛泄了气一般，垂下了肩膀。然后，她只留下一句{nace$对不起}，便离开了房间，不知去了哪里。
+　说完，赫根法尔松开了手。她脸上的神情仿佛泄了气一般，垂下了肩膀。然后，她只留下一句"{nace$对不起}"，便离开了房间，不知去了哪里。
