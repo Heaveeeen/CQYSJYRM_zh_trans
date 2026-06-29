@@ -12,7 +12,7 @@
 　夏莉雅从上方探头，确认我是否已经醒来。
 　说起来，"{cenesti$翠啊}"的问题还没解决。大概能明白是"{cen$翠}"加上类似呼格的"{-sti$啊}"，但中间插入的那个谜之"e"让我很在意。明明发"censti"的音似乎也可以，难道对方果然以为我的名字是“塞内”吗。
 
-"{Xalijasti$夏莉雅}，{Mi'd ferlk$我的名字} {es <cen>.$是‘翠’} {Mer, Deliu$呃，所以} {co lkurf <censti>.$你应该叫'cenesti'} {Niv?$对吧}"
+"{Xalijasti$夏莉雅}, {Mi'd ferlk$我的名字} {es <cen>.$是‘翠’} {Mer, Deliu$呃，所以} {co lkurf <censti>.$你应该叫'cenesti'} {Niv?$对吧}"
 "{Mer$呃}......"
 
 　夏莉雅从架子上取出笔和纸，开始画表。纸上画了一个纵向3格×横向5格的表格。大概是要开始语法说明了，但词汇量还远远不够的翠，能听懂吗。
@@ -43,7 +43,7 @@
 
 　夏莉雅的笔尖指向了"kranxaiun pervoj"所在列与"estvarnenlexef"所在行交叉的那个单元格。大概，她是想说"Cen"这个词是以e结尾的单词，并且是"kranxaiun pervoj"吧，可问题是这个"kranxaiun pervoj"的意思还没弄明白。
 
-"{Mal$那么}，fi {co$你} amol <-sti> el <cen>， amol <-e-> cecio <-sti> ad <cen>。"
+"{Mal$那么}, fi {co$你} amol <-sti> el <cen>， amol <-e-> cecio <-sti> ad <cen>。"
 
 　夏莉雅在表格旁边一边说着"cen"一边写了三个字母，说着"-sti"一边写了三个字母。然后，在它们中间，一边说着"er"一边放入一个字母。我还不太理解，但说不定，这规则是，在以e结尾的单词后面，如果接上以辅音开头的东西，就要插入er。
 　说到其他以e结尾的单词，我记得的有："{kranteerl$书}"、"{ferlk$名字}"、"{firlex$理解}"、"{krante$书写}"、"{xace$谢谢}"、"{selene$想要}"这些。而以辅音开头的词缀，我记得的有"{-sti$～哟}"、"{-'d$～的}"这些。嗯，作为尝试着说出口的词汇量，应该足够了吧。

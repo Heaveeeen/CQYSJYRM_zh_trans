@@ -20,8 +20,8 @@
 
 　赫根法尔·V……感觉是个很强的姓啊。不，重点不是这个，赫根法尔小姐为什么会知道我的名字呢？昨天我告诉她名字了吗？
 
-"{Mer$那个}，{Co firlex mi'd ferlk fal harmie?$你怎么知道我的名字}"
-"{Ar$啊}，{mi'd$我的} snutokacerger l'es {lexerl lkurf fal la'sci mels co$雷歇尔在……说起过你}."
+"{Mer$那个}, {Co firlex mi'd ferlk fal harmie?$你怎么知道我的名字}"
+"{Ar$啊}, {mi'd$我的} snutokacerger l'es {lexerl lkurf fal la'sci mels co$雷歇尔在……说起过你}."
 
 　嗯，虽然不太明白细节，但好像是雷歇尔先跟赫根法尔小姐提起了我的传言。
 
@@ -33,13 +33,13 @@
 　赫根法尔小姐打断我的话，有点害羞地那样说道。句首否定，"mi"放在了动词"lkurf"后面，也就是"mi"作为宾语。虽然我不懂"cixj"是什么意思，但凭感觉知道"plax"常在拜托别人时一起出现。例如，宣传册上写的"Plax shrlo tuan......"等等就是证据。在礼貌地请求时，会附带这个词吧。
 　也就是说，赫根法尔小姐在向我要求什么。
 
-"{Vaj hinggenferl$赫根法尔小姐}，{harmie$什么}......"
-"{Mili$等等}......{mi es hingvalir$我是赫芭莉} gels shrlo {lkurf niv hinggenferl$不要说赫根法尔}。"
+"{Vaj hinggenferl$赫根法尔小姐}, {harmie$什么}......"
+"{Mili$等等}......{mi es hingvalir$我是赫芭莉} gels shrlo {lkurf niv hinggenferl$不要说赫根法尔}."
 
 　啊，莫非是不想被叫做赫根法尔之类的事？虽然赫根法尔·V是真名，但平时不想被那么叫。想被怎么称呼，自己有权决定。印度前辈认识的人里，也有一直很注意把户籍名和真名分开使用的人，赫根法尔小姐一定也是那样吧。
 
-"{Mer$嗯}，{nace$对不起}。{mi firlex$我明白了}。"
-"{Xace.$谢谢}。"
+"{Mer$嗯}, {nace$对不起}. {mi firlex$我明白了}."
+"{Xace.$谢谢}."
 
 　**赫芭莉**小姐，就算名字变了，笑容也依然没有变。她示意我进去，我便往图书馆里走去。
 

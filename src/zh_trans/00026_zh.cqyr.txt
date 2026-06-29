@@ -34,7 +34,7 @@
 　句中出现了两次的"pikij"这个词似乎很重要。虽然句子很长，但在第一个pikij后面有个停顿，说明句子可能在这里断开。第一段的"fi {co$你} is pikij"中，"is"很像"{es$是}"。当然，像不代表一定有联系，但这似乎是个重要信息。然后"fi"修饰"{co$你}"……？总之，可以推测这句话的大意是“"fi {co$你}"和"pikij"之间的关系是"is"”。
 　说起来，以现在的词汇量，应该能说“我想理解"pikij"”吧？“理解”记得是"firlex"，“喜欢”是"felifel text"。想表达“理解这件事”的话，在动词词尾加上"-o"就可以了。虽然有点生硬，但应该能通。
 
-"{Xalijasti$夏莉雅}，{mi felifel text firlexo <pikij>$我想知道'pikij'}."
+"{Xalijasti$夏莉雅}, {mi felifel text firlexo <pikij>$我想知道'pikij'}."
 "{Hmm$嗯……}, deliu {co$你} lkurf <selene {mi firlex pikij$我想理解'pikij'}>."
 
 　嗯？她是在帮我修正提问方式？
