@@ -25,7 +25,7 @@
 　埃琳娜听到我说不知道，脸上露出了轻蔑的表情。就算我说了什么不该说的话，不知道也没办法。
 
 "{Fentexolerss reto mi ad xalija'd josnusn.$异教徒们杀了我和夏莉雅的josnusn} {Fgir'd meiaqerz'it luso es vynut niv.$用那个熟语非常不合适}"
-"josnusn......{veles retoo$被杀了}? {Harmie es josnusn?$josnusn是什么}"
+"Josnusn......{veles retoo$被杀了}? {Harmie es josnusn?$josnusn是什么}"//原文为小写字母开头
 "{Lersse lineparine.$自己查去}"//原文注解如此
 
 　埃琳娜冷冷地甩下这句话。她叹了口气，说话的声调变得仿佛至今为止的事都无所谓了一样。她转过身，迈开了脚步。

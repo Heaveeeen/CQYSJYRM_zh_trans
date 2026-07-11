@@ -24,13 +24,11 @@
 
 原文来自此处：[異世界転生したけど日本語が通じなかった（Fafs F. Sashimi） - カクヨム](https://kakuyomu.jp/works/1177354054883808252)
 
-一个简单的译名表，不全，主要由 AI 提取 & 翻译：[【腾讯文档】异世界语入门-译名表-cq](https://docs.qq.com/sheet/DS25IQ1NVdmNLSmpG)
-
 本项目使用的 AI 翻译工具，AiNiee ：[NEKOparapa/AiNiee: 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，PDF Word MD文档，Srt Vtt Lrc字幕等等复杂长文本。](https://github.com/NEKOparapa/AiNiee)
 
 原作者提供的浏览器书签小程序，可以把页面中的所有拉丁字母替换为利帕谢文字字体：[liparxe](https://mizugane.github.io/)
 
-原作者提供的资料集，包含本作品中的许多典故等等，反正我基本上是一个字也看不懂：[いせにほ資料集積所](https://sites.google.com/site/good0think/home)
+原作者提供的资料集，包含本作品中的许多典故、理语译文等等：[いせにほ資料集積所](https://sites.google.com/site/good0think/home)
 
 此书在`kakuyomu.jp`中的简介所附上的链接：
 
