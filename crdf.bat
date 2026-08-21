@@ -1,0 +1,1 @@
+python compRich.py --debug-fullNovel
