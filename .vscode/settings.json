@@ -19,6 +19,11 @@
             "text": "MAYOP:",
             "color": "#161069",
             "backgroundColor": "#60aa35"
+        },
+        {
+            "text": "WONTFIX:",
+            "color": "#efd2d2",
+            "backgroundColor": "#554444"
         }
     ]
 }

@@ -10,7 +10,7 @@
 "Jei, costi, hame la lex {es$是} iulo?"
 "Si josnyn yuihurk mal la lex voles niv filx werlfurp mag si g'es waxundeener, deliu kanti lineparine."
 
-　男人“嗯”地点了点头。当然，翠完全听不懂这么长的句子。他目前只大概理解系词句式的用法。
+　男人“嗯”地点了点头。当然，翠完全听不懂这么长的句子。他目前只大概理解系表句的用法。
 
 "{Mi es lexerl$我是雷歇尔}. Si'd aloajerlerm es harmie?"
 "{Si es......$〇〇是……}"
@@ -25,6 +25,6 @@
 "Jei, vaj. Edixa {co$你} lkurf ny la lex fal lovik nestil? Cene niv si lkurf lineparine."
 "Ja...... ja, pa edixu cene niv si lkurf...... Merc, cenesti."
 
-　夏莉雅指着我，把脸凑过来，一副“这家伙很可疑”的样子。我绝对是哪里搞错了。这气氛，完全是被怀疑了……
+　夏莉雅指着翠，把脸凑过来，一副“这家伙很可疑”的样子。我绝对是哪里搞错了。这气氛，完全是被怀疑了……
 
 "Cirla io, Cene {co$你} lkurf lineparine?"
